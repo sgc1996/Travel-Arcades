@@ -5,9 +5,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Traip">
-    <meta name="keywords" content="HTML,CSS,JavaScript">
-    <meta name="author" content="EnvyTheme">
+    <meta name="description" content="Discover the wonders of Thailand with our 4-day tour package. From the warm welcome at Suvarnabhumi International Airport to the departure, immerse yourself in the rich culture and vibrant attractions of Bangkok. Explore the Grand Palace, the Emerald Buddha statue, Wat Pho, and take a scenic canal ride on the City and Temple Tour. Embark on an adventure-filled day at Dream World, featuring themed areas, thrilling rides, and a visit to Snow Town. Create lasting memories in the Land of Smiles with our comprehensive tour package.">
+    <meta name="keywords" content="Thailand tour, Suvarnabhumi International Airport, Bangkok, Grand Palace, Emerald Buddha, Wat Pho, canal ride, City and Temple Tour, Dream World, Dream World Plaza, Dream Gardens, Fantasy Land, Adventure Land, Snow Town, themed areas, thrilling rides, Snow Town visit, guided tour, vacation package, cultural immersion, departure flight, Suvarnabhumi International Airport">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <title>Travel Arcade - Thailand Tour</title>

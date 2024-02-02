@@ -5,9 +5,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Traip">
-    <meta name="keywords" content="HTML,CSS,JavaScript">
-    <meta name="author" content="EnvyTheme">
+    <meta name="description" content="Explore a 14-day tour plan through the mesmerizing landscapes of Sri Lanka, from the vibrant city life of Colombo to the tranquil beaches of Hikkaduwa. Immerse yourself in cultural experiences, wildlife encounters, and wellness retreats along the way.">
+    <meta name="keywords" content="Sri Lanka, travel, tour, Colombo, Dambulla, Yala, Hikkaduwa, wellness retreat, wildlife, cultural experiences, beach, spa, relaxation, adventure, itinerary">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <title>Travel Arcade - Serene Sri Lanka A Journey through Nature, Culture & Wellness</title>

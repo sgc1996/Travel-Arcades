@@ -5,9 +5,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Traip">
-    <meta name="keywords" content="HTML,CSS,JavaScript">
-    <meta name="author" content="EnvyTheme">
+    <meta name="description" content="Embark on an unforgettable journey with our 4-day Indonesia Tour. Explore the rich natural ecosystems, ancient temples, and vibrant cultural festivities. From the forests of Sumatra to the stunning beaches of Bali, experience the diverse beauty of Indonesia.">
+    <meta name="keywords" content="Indonesia tour, Bali, Ubud, Kintamani, water sports, Tanah Lot Temple, Ngurah Rai International Airport, Denpasar, Kitamani Volcano, Tegalalang village, holy spring temple, Turtle Island, cultural tour, romantic dinner, Jumbaran Beach, travel, guided tour, vacation package, UNESCO World Heritage sites, cultural exploration, adventure, Indonesian heritage, colonial heritage, Ngurah Rai International Airport, departure flight">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <title>Travel Arcade - Indonesia Tour</title>

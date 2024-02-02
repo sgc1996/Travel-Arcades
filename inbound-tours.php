@@ -5,9 +5,9 @@
 <html lang="zxx">
     <head>
         <meta charset="utf-8">
-        <meta name="description" content="Traip">
-        <meta name="keywords" content="HTML,CSS,JavaScript">
-        <meta name="author" content="EnvyTheme">
+        <meta name="description" content="Explore the beauty of Sri Lanka with Travel Arcade. Discover dream beaches, cultural treasures, rich biodiversity, and indulge in hearty cooking. Book our cultural immersion, nature expedition, and golf adventure tours for an unforgettable experience.">
+        <meta name="keywords" content="Sri Lanka tours, Travel Arcade, cultural immersion, beach bliss, world tours, adventure tours, nature expedition, rich flora and fauna, golf adventure, honeymoon journey, Sri Lanka discovery tour, wellness journey, artistic wonders, travel agency, Colombo, Negombo, Kandy, Galle, Dambulla, Polonnaruwa, Anuradhapura, Nuwara Eliya, Bentota, Hikkaduwa, Yala, Serene Sri Lanka, Enchanting Sri Lanka, Travel Arcade contact,HTML,CSS,JavaScript">
+        <meta name="author" content="A.I Technologies">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
         <title>Travel Arcade - Inbound Tours</title>

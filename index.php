@@ -4,9 +4,10 @@
 <html lang="zxx">
     <head>
         <meta charset="utf-8">
-        <meta name="description" content="Travel Arcade">
-        <meta name="keywords" content="HTML,CSS,JavaScript">
-        <meta name="author" content="EnvyTheme">
+        <meta name="author" content="A.i Tech">
+        <meta name="description" content="Discover amazing tours and travel arrangements with Travel Arcade. Specialized in cultural immersion, beach bliss, and world tours. Contact us for unforgettable adventures!">
+        <meta name="keywords" content="Travel Arcade, Tours, Travel Arrangements, Cultural Immersion, Beach Bliss, World Tours, Sri Lanka, Adventure, Sea Beach, Mountain, Couple Tour, Night Fall, Cultural, Dubai, Indonesia, Malaysia, India, Shimla, Manali, Cultural Immersion, 
+        Colombo, Habarana,Nature Expedition, Flora and Fauna, HTML, CSS, JavaScript, Adventure Tours, Sea Beach Tours, Mountain Tours, Couple Tours, Night Fall Tours, Cultural Tours,Adventure, Sea Beach, Mountain, Couple Tour, Night Fall, Cultural, Tour Collection, IATA, JATA, Anuradhapura, Polonnaruwa">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
         <title>Travel Arcade - Home</title>

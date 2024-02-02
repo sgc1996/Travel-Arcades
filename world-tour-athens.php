@@ -5,9 +5,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Traip">
-    <meta name="keywords" content="HTML,CSS,JavaScript">
-    <meta name="author" content="EnvyTheme">
+    <meta name="description" content="Explore the rich history and cultural wealth of Athens with our 5-day tour package. Visit iconic landmarks such as the Acropolis, Corinth Canal, and Delphi, and immerse yourself in the beauty of ancient Greece.">
+    <meta name="keywords" content="Athens tour, Greece, Acropolis, Corinth Canal, Delphi, Argolis Tour, travel, historical landmarks, cultural experience, guided tour, vacation package">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <title>Travel Arcade - Athens Tour</title>

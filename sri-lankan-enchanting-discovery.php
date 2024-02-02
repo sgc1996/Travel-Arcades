@@ -5,9 +5,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Traip">
-    <meta name="keywords" content="HTML,CSS,JavaScript">
-    <meta name="author" content="EnvyTheme">
+    <meta name="description" content="Discover Sri Lanka: From the sacred Temple of the Tooth Relic in Kandy to the breathtaking Sigiriya Rock Fortress, our itinerary offers an unforgettable journey through the heart of Sri Lanka. Explore tea plantations, wildlife at Wasgamuwa National Park, and the captivating Dambulla Cave Temple. Enjoy the sun-kissed Negombo Beach and the vibrant Colombo City, complete with shopping excursions. Uncover the enchanting essence of Sri Lanka with us." />
+    <meta name="keywords" content="Sri Lanka, discovery tour, Kandy, Nuwara Eliya, Dambulla, Negombo, travel, tourism, cultural, wildlife, beach, Colombo" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <title>Travel Arcade - Enchanting Sri Lanka Discovery Tour</title>

@@ -5,9 +5,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Traip">
-    <meta name="keywords" content="HTML,CSS,JavaScript">
-    <meta name="author" content="EnvyTheme">
+    <meta name="description" content="Discover the beauty of Azerbaijan with our 6-day tour package. Explore Baku, the Caspian Sea coast, Gobustan National Park, and the scenic Apsheon Peninsula. Immerse yourself in the rich history, culture, and natural wonders of this unique country.">
+    <meta name="keywords" content="Azerbaijan tour, Baku, Apsheon Peninsula, Gobustan National Park, Caspian Sea coast, Yanardag, Guba, travel, historical landmarks, cultural experience, guided tour, vacation package">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <title>Travel Arcade - Azerbaijan Tour</title>

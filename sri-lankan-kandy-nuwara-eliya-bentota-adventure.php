@@ -5,9 +5,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Traip">
-    <meta name="keywords" content="HTML,CSS,JavaScript">
-    <meta name="author" content="EnvyTheme">
+    <meta name="description" content="Explore the Essence of Sri Lanka with our meticulously crafted itinerary. Visit Colombo, Kandy, Nuwara Eliya, and Bentota in this 8-day adventure.">
+    <meta name="keywords" content="Sri Lanka, travel, tour, Colombo, Kandy, Nuwara Eliya, Bentota, adventure, cultural treasures, natural wonders">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <title>Travel Arcade - Essence of Sri Lanka</title>

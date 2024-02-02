@@ -5,9 +5,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Traip">
-    <meta name="keywords" content="HTML,CSS,JavaScript">
-    <meta name="author" content="EnvyTheme">
+    <meta name="description" content="Embark on an unforgettable journey with our 7-day Vietnam Tour. From the warm welcome at Noi Bai International Airport to the exploration of Hanoi's landmarks, a Halong Bay cruise with exciting activities, a domestic flight to Ho Chi Minh City, and tours to Cu Chi Tunnel and Mekong Delta – immerse yourself in the beauty, history, and culture of Vietnam. Book our comprehensive tour package for a remarkable travel experience.">
+    <meta name="keywords" content="Vietnam tour, Noi Bai International Airport, Hanoi, City Tour, Halong Bay Cruise, Ho Chi Minh City, domestic flight, Cu Chi Tunnel, Mekong Delta, Tan Son Nhat International Airport, 7-day tour, landmarks, Halong Bay activities, domestic flight, cultural exploration, guided tour, vacation package, departure flight">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <title>Travel Arcade - Vietnam Tour</title>

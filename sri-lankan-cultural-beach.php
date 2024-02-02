@@ -5,9 +5,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Traip">
-    <meta name="keywords" content="HTML,CSS,JavaScript">
-    <meta name="author" content="EnvyTheme">
+    <meta name="description" content="Explore amazing sea beach tours in Sri Lanka and around the world with Travel Arcade. Discover cultural immersion, adventure, and more. Plan your next journey with us.">
+    <meta name="keywords" content="sea beach tours, Sri Lanka, world tours, adventure tours, cultural tours, Travel Arcade, Colombo, Habarana, Anuradhapura, Polonnaruwa, Sigiriya, Kandy, Ella, Galle, Day and Night Tour, Temple of tooth Relic, Kandyan Dance, Train Ride, Ravana Caves, Mirissa, Sandy Beaches, Minneriya, National Park, Architecture, Dambulla, Rock Cave Temple">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <title>Travel Arcade - Cultural Immersion and Beach Bliss</title>

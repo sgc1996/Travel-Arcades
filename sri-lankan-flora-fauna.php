@@ -5,9 +5,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Traip">
-    <meta name="keywords" content="HTML,CSS,JavaScript">
-    <meta name="author" content="EnvyTheme">
+    <meta name="description" content="Explore the comprehensive features of our Discovering Sri Lanka's Rich Flora and Fauna tour package. Immerse yourself in the island's diverse flora and fauna on this 10-day adventure.">
+    <meta name="keywords" content="Sri Lanka, tour, flora, fauna, wildlife, adventure, Sinharaja Forest, Udawalawe, Yala, Nuwara Eliya, Negombo, travel">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <title>Travel Arcade - Discovering Sri Lanka's Rich Flora and Fauna</title>
