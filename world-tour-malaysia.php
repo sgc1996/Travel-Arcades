@@ -5,9 +5,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Traip">
-    <meta name="keywords" content="HTML,CSS,JavaScript">
-    <meta name="author" content="EnvyTheme">
+    <meta name="description" content="Embark on a thrilling 4-day Malaysia Tour and explore the vibrant cityscape of Kuala Lumpur. From towering skyscrapers to historical attractions, experience the rich cultural diversity and indulge in the delectable local cuisine. Enjoy a half-day city tour, visit the iconic Sunway Lagoon Theme Park, and create lasting memories in this Asian hub of excitement and entertainment.">
+    <meta name="keywords" content="Malaysia tour, Kuala Lumpur, Kuala Lumpur International Airport, city tour, Sunway Lagoon Theme Park, Malaysian cuisine, travel, guided tour, vacation package, Kuala Lumpur skyline, colonial architecture, entertainment, theme park attractions, thrill-seekers, cultural diversity, Malaysia departure, guided exploration, Kuala Lumpur cityscape, skyscrapers, vibrant city life">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <title>Travel Arcade - Malaysia Tour</title>

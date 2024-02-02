@@ -5,9 +5,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Traip">
-    <meta name="keywords" content="HTML,CSS,JavaScript">
-    <meta name="author" content="EnvyTheme">
+    <meta name="description" content="Experience the beauty of Shimla and Manali with our 6-day tour package. Explore the charming landscapes, visit iconic landmarks, and indulge in the rich cultural heritage of India. A journey that combines adventure, relaxation, and cultural discovery in the Himalayan region.">
+    <meta name="keywords" content="India tour, Shimla, Manali, Kullu, Chandigarh, Delhi, travel, guided tour, vacation package, Himalayan tour, cultural exploration, adventure, shopping, Solang Valley, Hadimba Devi Temple, city tour, Indira Gandhi International Airport, departure flight">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <title>Travel Arcade - India (Shimla and Manali) Tour</title>

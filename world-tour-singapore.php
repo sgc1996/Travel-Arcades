@@ -5,9 +5,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Traip">
-    <meta name="keywords" content="HTML,CSS,JavaScript">
-    <meta name="author" content="EnvyTheme">
+    <meta name="description" content="Experience the vibrant culture and modern marvels of Singapore with our 4-day tour package. Explore the city's iconic landmarks, including Chinatown, Little India, and Marina Bay, on a half-day city tour. Immerse yourself in the magic of movies at Universal Studios Singapore, featuring thrilling rides and attractions. From the warm welcome at Changi International Airport to the departure, create lasting memories in this dynamic city with our comprehensive tour package.">
+<meta name="keywords" content="Singapore tour, Changi International Airport, city tour, Chinatown, Little India, Marina Bay, Merlion, City Hall, colonial-era buildings, Universal Studios Singapore, movie-themed attractions, thrill rides, family-friendly entertainment, departure flight, guided tour, vacation package, Singapore skyline, cultural immersion, vibrant nightlife, modern infrastructure">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <title>Travel Arcade - Singapore Tour</title>

@@ -5,9 +5,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Traip">
-    <meta name="keywords" content="HTML,CSS,JavaScript">
-    <meta name="author" content="EnvyTheme">
+    <meta name="description" content="Embark on a romantic odyssey through the enchanting island of Sri Lanka with our meticulously crafted 10-day tour, 'A Honeymoon Journey of Love'. Explore Negombo, Kandy, Colombo, Yala, and Bentota with the perfect blend of adventure, culture, and relaxation.">
+    <meta name="keywords" content="Sri Lanka, Honeymoon, Tour, Negombo, Kandy, Colombo, Yala, Bentota, Adventure, Culture, Relaxation, Romantic, Journey">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <title>Travel Arcade - A Honeymoon Journey of Love</title>

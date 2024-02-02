@@ -5,9 +5,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Traip">
-    <meta name="keywords" content="HTML,CSS,JavaScript">
-    <meta name="author" content="EnvyTheme">
+    <meta name="description" content="Explore the comprehensive features of our Sri Lankan Golf Adventure. Play golf at iconic courses like Royal Colombo Golf Club, Victoria Golf Club, and Nuwara Eliya Golf Club. Enjoy beachfront luxury at Shangri-La's Hambantota Golf Club, with an optional safari for wildlife enthusiasts. This tour combines golfing excellence with Sri Lanka's cultural and natural wonders.">
+    <meta name="keywords" content="Sri Lankan Golf Adventure, golf, Sri Lanka, Royal Colombo Golf Club, Victoria Golf Club, Nuwara Eliya Golf Club, Shangri-La's Hambantota Golf Club, safari, wildlife, cultural, natural wonders">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <title>Travel Arcade - Sri Lankan Golf Adventure</title>

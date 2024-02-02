@@ -5,9 +5,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Traip">
-    <meta name="keywords" content="HTML,CSS,JavaScript">
-    <meta name="author" content="EnvyTheme">
+    <meta name="description" content="Explore the enchanting city of Dubai with our 4-day tour package. From iconic landmarks like the Burj Khalifa to relaxing cruises and thrilling desert safaris, our Dubai Tour promises a memorable experience in this vibrant destination.">
+    <meta name="keywords" content="Dubai tour, Creek Dhow Cruise Dinner, Evening Dessert Safari, Burj Khalifa, desert safari, Arabian Dhow, international cuisine, travel, guided tour, vacation package">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <title>Travel Arcade - Dubai Tour</title>
