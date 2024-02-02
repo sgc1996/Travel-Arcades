@@ -1,0 +1,170 @@
+section {
+  min-height: 100vh;
+  padding-top: 50px;
+}
+@media (max-width: 768px) {
+  section {
+    padding-top: 10px;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+a {
+  transition: all 0.2s ease-in-out;
+  color: #009688;
+}
+a:hover, a:focus {
+  text-decoration: none;
+  color: #00302c;
+}
+
+.sectionHeading {
+  margin-bottom: 20px;
+  color: #009688;
+}
+
+::-moz-selection {
+  background: #fcfcfc;
+  background: rgba(224, 224, 224, 0.2);
+  text-shadow: none;
+}
+
+::selection {
+  background: #fcfcfc;
+  background: rgba(224, 224, 224, 0.2);
+  text-shadow: none;
+}
+
+img::-moz-selection {
+  background: transparent;
+}
+
+img::selection {
+  background: transparent;
+}
+
+img::-moz-selection {
+  background: transparent;
+}
+
+.shadow-nohover {
+  box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+  transition: box-shadow 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@-webkit-keyframes animatop {
+  0% {
+    opacity: 0;
+    bottom: -500px;
+  }
+  100% {
+    opacity: 1;
+    bottom: 0px;
+  }
+}
+
+@keyframes animatop {
+  0% {
+    opacity: 0;
+    bottom: -500px;
+  }
+  100% {
+    opacity: 1;
+    bottom: 0px;
+  }
+}
+@-webkit-keyframes rotatemagic {
+  0% {
+    opacity: 0;
+    transform: rotate(0deg);
+    top: -24px;
+    left: -253px;
+  }
+  100% {
+    transform: rotate(-30deg);
+    top: -24px;
+    left: -78px;
+  }
+}
+@keyframes rotatemagic {
+  0% {
+    opacity: 0;
+    transform: rotate(0deg);
+    top: -24px;
+    left: -253px;
+  }
+  100% {
+    transform: rotate(-30deg);
+    top: -24px;
+    left: -78px;
+  }
+}
+h3 {
+  margin: 20px 0;
+}
+
+.experience {
+  border-left: 3px solid #200096;
+  padding: 0 30px;
+
+}
+@media (max-width: 767px) {
+  .experience {
+    margin-left: 0;
+    padding-right: 0;
+  }
+}
+.experience .item {
+  position: relative;
+  margin-bottom: 40px;
+}
+.experience .item::before {
+  content: "";
+  position: absolute;
+  left: -43px;
+  top: 0;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  border: 3px solid #6b6b6b;
+}
+.experience .item::after {
+  content: "";
+  position: absolute;
+  left: -37px;
+  top: 6px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #6b6b6b;
+}
+.experience .company-name {
+  color: #030303;
+}
+.experience .location {
+  position: absolute;
+  right: 0;
+  top: 2px;
+}
+.experience .location .fa {
+  margin-right: 8px;
+}
+.experience .job-info {
+  position: absolute;
+  left: -185px;
+  top: 0;
+}
+.experience .job-info .title {
+  color: #6b6b6b;
+}
+@media (max-width: 767px) {
+  .experience .job-info {
+    position: static;
+    margin-bottom: 1rem;
+  }
+}

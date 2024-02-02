@@ -1,0 +1,5 @@
+[13-Jan-2024 17:50:11 UTC] PHP Warning:  Undefined variable $name in /home/travela3/public_html/assets/php/form-process.php on line 49
+[13-Jan-2024 17:50:11 UTC] PHP Warning:  Undefined variable $email in /home/travela3/public_html/assets/php/form-process.php on line 52
+[13-Jan-2024 17:50:11 UTC] PHP Warning:  Undefined variable $msg_subject in /home/travela3/public_html/assets/php/form-process.php on line 55
+[13-Jan-2024 17:50:11 UTC] PHP Warning:  Undefined variable $phone_number in /home/travela3/public_html/assets/php/form-process.php on line 58
+[13-Jan-2024 17:50:11 UTC] PHP Warning:  Undefined variable $message in /home/travela3/public_html/assets/php/form-process.php on line 61
