@@ -4,9 +4,9 @@
 <html lang="zxx">
     <head>
         <meta charset="utf-8">
-        <meta name="description" content="Traip">
-        <meta name="keywords" content="HTML,CSS,JavaScript">
-        <meta name="author" content="EnvyTheme">
+        <meta name="description" content="Contact Travel Arcade for all your travel needs. Whether you're planning an adventure tour, sea beach tour, mountain tour, couple tour, night fall tour, or cultural tour, we're here to assist you. Reach out to us for information on Sri Lanka, world tours, air tickets, visa services, and more. We'd love to hear from you and help you plan your next unforgettable journey.">
+        <meta name="keywords" content="Travel Arcade, contact, get in touch, travel needs, adventure tours, sea beach tours, mountain tours, couple tours, night fall tours, cultural tours, Sri Lanka, world tours, air tickets, visa services, travel assistance, Colombo, Sri Lanka, explore, plan your journey">
+        <meta name="author" content="A.I Technologies">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
         <title>Travel Arcade - Contact Us </title>

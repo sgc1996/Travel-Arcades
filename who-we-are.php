@@ -2,10 +2,11 @@
 <html lang="zxx">
     <head>
         <meta charset="utf-8">
-        <meta name="description" content="Traip">
-        <meta name="keywords" content="HTML,CSS,JavaScript">
-        <meta name="author" content="EnvyTheme">
+        <meta name="author" content="A,I Technologies">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="Travel Arcade offers exceptional travel experiences with over four decades of service in the travel trade. Explore our Sri Lanka tours, world tours, and more. Contact us for unforgettable adventures.">
+        <meta name="keywords" content="Travel Arcade, tours, travel arrangements, Sri Lanka, world tours, air tickets, visa services, adventure tours, sea beach tours, mountain tours, couple tours, night fall tours, cultural tours, Sri Lanka tourism, travel agency, explore, adventure, vacation, holiday, tourism, Colombo, travel partners, tour packages, 
+        Travel Arcade, your travel ambitions, strategic travel counseling, Senok Travel Bureau Limited, Ms B M D Madawela,HTML,CSS,JavaScript">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
         <title>Travel Arcade - About Us</title>
         <link rel="icon" href="assets/images/favicon.png" type="image/png" sizes="16x16">

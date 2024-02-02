@@ -4,9 +4,9 @@
 <html lang="zxx">
     <head>
         <meta charset="utf-8">
-        <meta name="description" content="Traip">
-        <meta name="keywords" content="HTML,CSS,JavaScript">
-        <meta name="author" content="EnvyTheme">
+        <meta name="description" content="Travel Arcade (Pvt) Ltd is your trusted and dedicated visa service provider, simplifying the visa application process to make your travel dreams a reality. We provide expert guidance, thorough documentation review, and personalized support for obtaining tourist visas, business visas, and family visitor visas. Explore the world with confidence, and let us handle the visa application process while you focus on creating unforgettable memories during your travels.">
+        <meta name="keywords" content="Travel Arcade, visa services, tourist visa, business visa, family visitor visa, international travel, visa application, visa assistance, travel dreams, expert guidance, documentation review, personalized support, explore the world, travel insurance, Colombo, Sri Lanka, Dubai, Indonesia, Malaysia, India, Shimla, Manali, Singapore, Thailand, Vietnam, Athens, Azarbaijan ">
+        <meta name="author" content="A.I Technologies">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
         <title>Travel Arcade - VISA </title>

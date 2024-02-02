@@ -4,9 +4,10 @@
 <html lang="zxx">
     <head>
         <meta charset="utf-8">
-        <meta name="description" content="Traip">
-        <meta name="keywords" content="HTML,CSS,JavaScript">
-        <meta name="author" content="EnvyTheme">
+        <meta name="description" content="Travel Arcade offers outstanding outbound tours to popular destinations worldwide. As a trusted travel agency with a global network, we provide seamless travel experiences, from hotel bookings to transportation and tours. Explore our diverse portfolio, including Dubai, Indonesia, Malaysia, India, Singapore, Thailand, Vietnam, Athens, Azerbaijan, and more. Choose Travel Arcade for unforgettable journeys.">
+        <meta name="keywords" content="Travel Arcade, world tours, outbound tours, travel agency, Dubai, Indonesia, Malaysia, India, Singapore, Thailand, Vietnam, Athens, Azerbaijan, travel packages, cruise packages, family vacations, international travel, tourism, global destinations, travel experiences, adventure tours, sea beach tours, mountain tours, couple tours, night fall tours, cultural tours,
+        Creek Dhow, Cruise Dinner Evening, Dessert Safari, Ubud Kintamani,  Watersports, Sunset, City Tour,  Sunway Lagoon, Theme Park,Temple Tour,  Dream Word Tour, Shimla,  Manali,  Kullu, Chandigarh,  Delhi, Universal Studio,Argolis, Delphi, Leisure,Hanlong Bay, Ho Chi Minh,  Cu Chi Tunnel,  Mekong Delta, Baku Tour,  Apsheon, Peninsula,  Gobustan, HTML,CSS,JavaScript">
+        <meta name="author" content="A.I Technologies">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
         <title>Travel Arcade - Outbound Tours</title>

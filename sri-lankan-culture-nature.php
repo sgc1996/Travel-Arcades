@@ -5,9 +5,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Traip">
-    <meta name="keywords" content="HTML,CSS,JavaScript">
-    <meta name="author" content="EnvyTheme">
+    <meta name="description" content="Explore the Culture and Nature Expedition tour in Sri Lanka with our 4-night, 5-day adventure. Immerse in rich heritage and natural wonders visiting Colombo, Dambulla, and Kandy." />
+    <meta name="keywords" content="Culture and Nature Expedition, Sri Lanka tour, Colombo, Dambulla, Kandy, Sigiriya, Minneriya National Park, Temple of the Tooth Relic, Kandyan dance" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <title>Travel Arcade - Culture and Nature Expedition</title>
