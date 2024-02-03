@@ -2,9 +2,9 @@
 <html lang="zxx">
     <head>
         <meta charset="utf-8">
-        <meta name="description" content="Traip">
-        <meta name="keywords" content="HTML,CSS,JavaScript">
-        <meta name="author" content="EnvyTheme">
+        <meta name="description" content="Explore the top 7 places to visit in Sri Lanka - Anuradhapura, Polonnaruwa, Sigiriya Rock Forest, Dambulla, Kandy, Nuwara Eliya, and Ella. Discover the rich cultural heritage, stunning landscapes, and more. Plan your trip with Travel Arcade.">
+        <meta name="keywords" content="Sri Lanka, travel, tourism, Anuradhapura, Polonnaruwa, Sigiriya Rock, Dambulla, Kandy, Nuwara Eliya, Ella, culture, heritage, landmarks, tourist attractions">
+        <meta name="author" content="A.I Technologies">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
         <title>Travel Arcade - Top Places to Visit in Sri Lanka</title>

@@ -4,9 +4,8 @@
 <html lang="zxx">
     <head>
         <meta charset="utf-8">
-        <meta name="description" content="Traip">
-        <meta name="keywords" content="HTML,CSS,JavaScript">
-        <meta name="author" content="EnvyTheme">
+        <meta name="description" content="Explore captivating destinations around the world with our meticulously crafted World Adventure Tours. From the vibrant cultures of Sri Lanka to the iconic landmarks of Dubai, the tropical beauty of Indonesia, the diverse landscapes of Malaysia, the enchanting Himalayan regions of Shimla & Manali in India, the modern marvels of Singapore, the rich history of Thailand, the scenic beauty of Vietnam, the ancient allure of Athens, and the cultural gems of Azerbaijan – embark on unforgettable journeys with our thoughtfully designed tour packages.">
+        <meta name="keywords" content="World Adventure Tours, Sri Lanka, Dubai, Indonesia, Malaysia, India, Singapore, Thailand, Vietnam, Athens, Azerbaijan, cultural tours, nature tours, city tours, historical tours, adventure tours, travel packages, international destinations, holiday packages, vacation tours, exploration, sightseeing">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
         <title>Travel Arcade - Adventure Tours</title>

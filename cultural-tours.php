@@ -4,9 +4,9 @@
 <html lang="zxx">
     <head>
         <meta charset="utf-8">
-        <meta name="description" content="Traip">
-        <meta name="keywords" content="HTML,CSS,JavaScript">
-        <meta name="author" content="EnvyTheme">
+        <meta name="description" content="Explore our curated World Cultural Tours, including destinations like Dubai, Indonesia, India, Singapore, Thailand, Vietnam, Athens, and Azerbaijan. Discover the beauty of diverse cultures and iconic landmarks. Plan your cultural adventure with Travel Arcade.">
+        <meta name="keywords" content="world tours, cultural tours, travel, tourism, Dubai, Indonesia, India, Singapore, Thailand, Vietnam, Athens, Azerbaijan, tour packages, Creek Dhow Cruise Dinner, Evening Dessert Safari, Ubud, Kintamani, Shimla, Manali, City Tour, Temple Tour, Hanlong Bay Cruise, Acropolis Tour, Baku Tour, Apsheon Peninsula, Gobustan, vacation">
+        <meta name="author" content="A.I Technologies">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
         <title>Travel Arcade - Cultural Tours</title>

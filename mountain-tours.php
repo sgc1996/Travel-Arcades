@@ -4,9 +4,9 @@
 <html lang="zxx">
     <head>
         <meta charset="utf-8">
-        <meta name="description" content="Traip">
-        <meta name="keywords" content="HTML,CSS,JavaScript">
-        <meta name="author" content="EnvyTheme">
+        <meta name="description" content="Discover the beauty of mountainous landscapes with our World Mountain Tours. Explore destinations like Shimla & Manali in India and embark on a journey filled with scenic beauty and adventure. Plan your mountainous escapade with Travel Arcade.">
+        <meta name="keywords" content="world tours, mountain tours, travel, tourism, India, Shimla, Manali, Shimla & Manali, scenic beauty, adventure, tour packages, Kullu, Chandigarh, Delhi, vacation">
+        <meta name="author" content="A.I Technologies">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
         <title>Travel Arcade - Mountain Tours</title>

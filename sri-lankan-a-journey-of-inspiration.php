@@ -5,8 +5,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Traip">
-    <meta name="keywords" content="HTML,CSS,JavaScript">
+    <meta name="description" content="Your brief description of the tour itinerary goes here.">
+    <meta name="keywords" content="Sri Lanka Tour, Travel Experience, Cultural Heritage, UNESCO Sites, Historical Sites, Temples, Dambulla, Sigiriya, Polonnaruwa, Anuradhapura, Kandy, Temple of the Tooth Relic, Kandyan Dance, Galle, Kelaniya Temple, Galle Fort, Colombo City Tour, Geoffrey Bawa House, Sri Lankan Architecture, Ambalangoda Mask Factory">
     <meta name="author" content="EnvyTheme">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
