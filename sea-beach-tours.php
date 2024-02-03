@@ -4,8 +4,8 @@
 <html lang="zxx">
     <head>
         <meta charset="utf-8">
-        <meta name="description" content="Explore amazing sea beach tours in Sri Lanka and around the world with Travel Arcade. Discover cultural immersion, adventure, and more. Plan your next journey with us.">
-        <meta name="keywords" content="sea beach tours, Sri Lanka, world tours, adventure tours, cultural tours, Travel Arcade, ">
+        <meta name="description" content="Explore the world's most beautiful sea beach destinations with our World Sea Beach Tours. Discover the serene coastlines of Vietnam and the cultural richness of Azerbaijan. Plan your unforgettable beach adventures with Travel Arcade.">
+        <meta name="keywords" content="world tours, sea beach tours, travel, tourism, Vietnam, Azerbaijan, beach adventure, beach destinations, tour packages, travel destinations, Hanlong Bay Cruise, Ho Chi Minh, Cu Chi Tunnel, Mekong Delta, Baku Tour, Apsheon Peninsula, Gobustan">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
         <title>Travel Arcade - Sea Beach Tours</title>

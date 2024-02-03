@@ -4,9 +4,9 @@
 <html lang="zxx">
     <head>
         <meta charset="utf-8">
-        <meta name="description" content="Traip">
-        <meta name="keywords" content="HTML,CSS,JavaScript">
-        <meta name="author" content="EnvyTheme">
+        <meta name="description" content="Explore our couple tours in Sri Lanka and around the world. Check out our curated packages, including 'A Honeymoon Journey of Love' in Sri Lanka and 'Indonesia' world tour. Plan your romantic getaway with Travel Arcade.">
+        <meta name="keywords" content="couple tours, Sri Lanka, world tours, honeymoon, travel, tourism, romantic getaway, Indonesia, tour packages, Negombo, Kandy, Colombo, Yala, Bentota, Ubud, Kintamani, water sports, Tanah Lot, vacation">
+        <meta name="author" content="A.I Technologies">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
         <title>Travel Arcade - Couple Tours</title>
