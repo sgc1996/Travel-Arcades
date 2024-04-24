@@ -177,7 +177,7 @@
         <!-- Navbar -->
         <!-- Header -->
         <header class="header-banner header-banner-2">
-        <video src="assets/images/homepage-2/header-video2.mp4" autoplay loop playsinline muted class="header-video"></video>
+        <video src="assets/images/homepage-2/Header-Video2.mp4" autoplay loop playsinline muted class="header-video"></video>
         <div class="inner-header-shape"></div>
         <!-- header-content -->
         <div class="container-fluid">
