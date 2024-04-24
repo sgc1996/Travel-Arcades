@@ -33,6 +33,7 @@
         <!-- flaticon css -->
         <link rel='stylesheet' href='assets/css/flaticon.css' type="text/css" media="all" />
         <!-- style css -->
+        <link rel="stylesheet" href="assets/css/popup-style.css" type="text/css" media="all" />
         <link rel="stylesheet" href="assets/css/style.css" type="text/css" media="all" />
         <!-- responsive css -->
         <link rel="stylesheet" href="assets/css/responsive.css" type="text/css" media="all" />
@@ -187,6 +188,23 @@
         </div>
         </header>
         <!-- Header -->
+        <!-- Popup -->
+        <div class="popup">
+            <div class="content-box">
+                <div class="close"></div>
+                <div class="img-box">
+                    <a><img src="assets/images/popup/whatsapp.png" alt="Travel Arcade"></a>
+                </div>
+                <div class="content">
+                    <div>
+                        <h2>Travel Arcade</h2>
+                        <h3>Travel & Tourism Survey</h3>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLScADEM28W3tNzxhROBzPnuA0dZ4XBZZAMbctljmC6D3cScoxQ/viewform" target="_blank">View Form</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Popup -->
         <!-- About -->
         <section class="tour-section bg-offwhite pt-100 pb-70 animate-section position-relative overflow-hidden" id="animateSection">
             <?php print_r($msg); ?>
@@ -1417,5 +1435,24 @@
         <script src="assets/js/jquery.meanmenu.min.js"></script>
         <!-- main js -->
         <script src="assets/js/script.js"></script>
+
+        <!-- Popup -->
+        <!-- Automatic show popup after 2 seconds of page load -->
+        <script>
+            const popup = document.querySelector('.popup');
+            const close = document.querySelector('.close');
+
+            window.onload = function(){
+                setTimeout(function(){
+                    popup.style.display = "block"
+
+                    //Add some time delay to show popup
+                }, 2000)
+            }
+
+            close.addEventListener('click', () => {
+                popup.style.display = "none";
+            })
+        </script>
     </body>
 </html>

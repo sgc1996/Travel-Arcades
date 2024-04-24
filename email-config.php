@@ -43,19 +43,19 @@ $message = '
     require 'phpmailer/src/SMTP.php';
     $mail = new PHPMailer;
     $mail->IsSMTP();        //Sets Mailer to send message using SMTP
-    $mail->Host = 'mail.forestrockgarden.lk';  //Sets the SMTP hosts of your Email hosting, this for Godaddy
+    $mail->Host = 'mail.travelarcades.com';  //Sets the SMTP hosts of your Email hosting, this for Godaddy
     $mail->Port = '465';        //Sets the default SMTP server port
     $mail->SMTPAuth = true;       //Sets SMTP authentication. Utilizes the Username and Password variables
-    $mail->Username = 'mail@forestrockgarden.lk';     //Sets SMTP username
-    $mail->Password = 'webmail@1234';     //Sets SMTP password
+    $mail->Username = 'mail@travelarcades.com';     //Sets SMTP username
+    $mail->Password = 'M~lcC9ruRYAA';     //Sets SMTP password
     $mail->SMTPSecure = 'ssl';       //Sets connection prefix. Options are "", "ssl" or "tls"
     $mail->From = $_POST["email"];     //Sets the From email address for the message
     $mail->FromName = $_POST["name"];    //Sets the From name of the message
     $mail->AddAddress('gayanc@aitech.lk', 'Travel Arcade'); //Adds a "To" address
-    //$mail->AddAddress('buwanekav@aitech.lk', 'Travel Arcade'); //Adds a "To" address
+    $mail->AddAddress('buwanekav@aitech.lk', 'Travel Arcade'); //Adds a "To" address
     $mail->AddAddress('ameshm@aitech.lk', 'Travel Arcade'); //Adds a "To" address
     $mail->AddAddress('gayanchathuranga1992@gmail.com', 'Travel Arcade'); //Adds a "To" address
-    $mail->AddAddress('info@travelarcades.com', 'Travel Arcade'); //Adds a "To" address
+    //$mail->AddAddress('info@travelarcades.com', 'Travel Arcade'); //Adds a "To" address
     $mail->WordWrap = 50;       //Sets word wrapping on the body of the message to a given number of characters
     $mail->IsHTML(true);       //Sets message type to HTML
     // $mail->AddAttachment($path);     //Adds an attachment from a path on the filesystem
