@@ -3,6 +3,15 @@
 <!DOCTYPE html>
 <html lang="zxx">
     <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-927QTPZFR1');
+        </script>
         <meta charset="utf-8">
         <meta name="description" content="Explore the world's most beautiful sea beach destinations with our World Sea Beach Tours. Discover the serene coastlines of Vietnam and the cultural richness of Azerbaijan. Plan your unforgettable beach adventures with Travel Arcade.">
         <meta name="keywords" content="world tours, sea beach tours, travel, tourism, Vietnam, Azerbaijan, beach adventure, beach destinations, tour packages, travel destinations, Hanlong Bay Cruise, Ho Chi Minh, Cu Chi Tunnel, Mekong Delta, Baku Tour, Apsheon Peninsula, Gobustan">

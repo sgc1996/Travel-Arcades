@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="zxx">
     <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-927QTPZFR1');
+        </script>
         <meta charset="utf-8">
         <meta name="description" content="Explore daily blogs from Travel Arcade for tips and tricks on travel, featuring top places to visit in Sri Lanka, insights on Dambulla's natural and historic monuments, and recommendations for the best beaches in Sri Lanka. Stay informed and inspired for your next adventure.">
         <meta name="keywords" content="Travel Arcade, blogs, travel tips, travel tricks, Sri Lanka travel, top places to visit, Dambulla, Sri Lanka beaches, beach destinations, adventure tours, sea beach tours, mountain tours, couple tours, night fall tours, cultural tours, Colombo, Sri Lanka, travel inspiration">

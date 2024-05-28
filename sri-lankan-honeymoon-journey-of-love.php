@@ -4,6 +4,15 @@
 <html lang="zxx">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-927QTPZFR1');
+    </script>
     <meta charset="utf-8">
     <meta name="description" content="Embark on a romantic odyssey through the enchanting island of Sri Lanka with our meticulously crafted 10-day tour, 'A Honeymoon Journey of Love'. Explore Negombo, Kandy, Colombo, Yala, and Bentota with the perfect blend of adventure, culture, and relaxation.">
     <meta name="keywords" content="Sri Lanka, Honeymoon, Tour, Negombo, Kandy, Colombo, Yala, Bentota, Adventure, Culture, Relaxation, Romantic, Journey">

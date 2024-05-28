@@ -18,3 +18,8 @@
 [18-Apr-2024 18:24:02 UTC] PHP Warning:  Undefined variable $msg_subject in /home/travela3/public_html/assets/php/form-process.php on line 55
 [18-Apr-2024 18:24:02 UTC] PHP Warning:  Undefined variable $phone_number in /home/travela3/public_html/assets/php/form-process.php on line 58
 [18-Apr-2024 18:24:02 UTC] PHP Warning:  Undefined variable $message in /home/travela3/public_html/assets/php/form-process.php on line 61
+[01-May-2024 12:59:15 UTC] PHP Warning:  Undefined variable $name in /home/travela3/public_html/assets/php/form-process.php on line 49
+[01-May-2024 12:59:15 UTC] PHP Warning:  Undefined variable $email in /home/travela3/public_html/assets/php/form-process.php on line 52
+[01-May-2024 12:59:15 UTC] PHP Warning:  Undefined variable $msg_subject in /home/travela3/public_html/assets/php/form-process.php on line 55
+[01-May-2024 12:59:15 UTC] PHP Warning:  Undefined variable $phone_number in /home/travela3/public_html/assets/php/form-process.php on line 58
+[01-May-2024 12:59:15 UTC] PHP Warning:  Undefined variable $message in /home/travela3/public_html/assets/php/form-process.php on line 61

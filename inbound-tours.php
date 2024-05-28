@@ -4,6 +4,15 @@
 <!DOCTYPE html>
 <html lang="zxx">
     <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-927QTPZFR1');
+        </script>
         <meta charset="utf-8">
         <meta name="description" content="Explore the beauty of Sri Lanka with Travel Arcade. Discover dream beaches, cultural treasures, rich biodiversity, and indulge in hearty cooking. Book our cultural immersion, nature expedition, and golf adventure tours for an unforgettable experience.">
         <meta name="keywords" content="Sri Lanka tours, Travel Arcade, cultural immersion, beach bliss, world tours, adventure tours, nature expedition, rich flora and fauna, golf adventure, honeymoon journey, Sri Lanka discovery tour, wellness journey, artistic wonders, travel agency, Colombo, Negombo, Kandy, Galle, Dambulla, Polonnaruwa, Anuradhapura, Nuwara Eliya, Bentota, Hikkaduwa, Yala, Serene Sri Lanka, Enchanting Sri Lanka, Travel Arcade contact,HTML,CSS,JavaScript">

@@ -4,6 +4,15 @@
 <html lang="zxx">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-927QTPZFR1');
+    </script>
     <meta charset="utf-8">
     <meta name="description" content="Discover the wonders of Thailand with our 4-day tour package. From the warm welcome at Suvarnabhumi International Airport to the departure, immerse yourself in the rich culture and vibrant attractions of Bangkok. Explore the Grand Palace, the Emerald Buddha statue, Wat Pho, and take a scenic canal ride on the City and Temple Tour. Embark on an adventure-filled day at Dream World, featuring themed areas, thrilling rides, and a visit to Snow Town. Create lasting memories in the Land of Smiles with our comprehensive tour package.">
     <meta name="keywords" content="Thailand tour, Suvarnabhumi International Airport, Bangkok, Grand Palace, Emerald Buddha, Wat Pho, canal ride, City and Temple Tour, Dream World, Dream World Plaza, Dream Gardens, Fantasy Land, Adventure Land, Snow Town, themed areas, thrilling rides, Snow Town visit, guided tour, vacation package, cultural immersion, departure flight, Suvarnabhumi International Airport">

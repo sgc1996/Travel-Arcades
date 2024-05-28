@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="zxx">
     <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-927QTPZFR1');
+        </script>
         <meta charset="utf-8">
         <meta name="description" content="Explore the top 7 places to visit in Sri Lanka - Anuradhapura, Polonnaruwa, Sigiriya Rock Forest, Dambulla, Kandy, Nuwara Eliya, and Ella. Discover the rich cultural heritage, stunning landscapes, and more. Plan your trip with Travel Arcade.">
         <meta name="keywords" content="Sri Lanka, travel, tourism, Anuradhapura, Polonnaruwa, Sigiriya Rock, Dambulla, Kandy, Nuwara Eliya, Ella, culture, heritage, landmarks, tourist attractions">

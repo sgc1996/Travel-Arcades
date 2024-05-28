@@ -4,6 +4,15 @@
 <html lang="zxx">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-927QTPZFR1');
+    </script>
     <meta charset="utf-8">
     <meta name="description" content="Explore the rich history and cultural wealth of Athens with our 5-day tour package. Visit iconic landmarks such as the Acropolis, Corinth Canal, and Delphi, and immerse yourself in the beauty of ancient Greece.">
     <meta name="keywords" content="Athens tour, Greece, Acropolis, Corinth Canal, Delphi, Argolis Tour, travel, historical landmarks, cultural experience, guided tour, vacation package">

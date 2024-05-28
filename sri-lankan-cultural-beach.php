@@ -4,6 +4,15 @@
 <html lang="zxx">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-927QTPZFR1');
+    </script>
     <meta charset="utf-8">
     <meta name="description" content="Explore amazing sea beach tours in Sri Lanka and around the world with Travel Arcade. Discover cultural immersion, adventure, and more. Plan your next journey with us.">
     <meta name="keywords" content="sea beach tours, Sri Lanka, world tours, adventure tours, cultural tours, Travel Arcade, Colombo, Habarana, Anuradhapura, Polonnaruwa, Sigiriya, Kandy, Ella, Galle, Day and Night Tour, Temple of tooth Relic, Kandyan Dance, Train Ride, Ravana Caves, Mirissa, Sandy Beaches, Minneriya, National Park, Architecture, Dambulla, Rock Cave Temple">

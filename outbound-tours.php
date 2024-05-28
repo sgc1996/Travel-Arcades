@@ -3,6 +3,15 @@
 <!DOCTYPE html>
 <html lang="zxx">
     <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-927QTPZFR1');
+        </script>
         <meta charset="utf-8">
         <meta name="description" content="Travel Arcade offers outstanding outbound tours to popular destinations worldwide. As a trusted travel agency with a global network, we provide seamless travel experiences, from hotel bookings to transportation and tours. Explore our diverse portfolio, including Dubai, Indonesia, Malaysia, India, Singapore, Thailand, Vietnam, Athens, Azerbaijan, and more. Choose Travel Arcade for unforgettable journeys.">
         <meta name="keywords" content="Travel Arcade, world tours, outbound tours, travel agency, Dubai, Indonesia, Malaysia, India, Singapore, Thailand, Vietnam, Athens, Azerbaijan, travel packages, cruise packages, family vacations, international travel, tourism, global destinations, travel experiences, adventure tours, sea beach tours, mountain tours, couple tours, night fall tours, cultural tours,

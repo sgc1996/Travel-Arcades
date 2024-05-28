@@ -4,6 +4,15 @@
 <html lang="zxx">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-927QTPZFR1');
+    </script>
     <meta charset="utf-8">
     <meta name="description" content="Embark on a thrilling 4-day Malaysia Tour and explore the vibrant cityscape of Kuala Lumpur. From towering skyscrapers to historical attractions, experience the rich cultural diversity and indulge in the delectable local cuisine. Enjoy a half-day city tour, visit the iconic Sunway Lagoon Theme Park, and create lasting memories in this Asian hub of excitement and entertainment.">
     <meta name="keywords" content="Malaysia tour, Kuala Lumpur, Kuala Lumpur International Airport, city tour, Sunway Lagoon Theme Park, Malaysian cuisine, travel, guided tour, vacation package, Kuala Lumpur skyline, colonial architecture, entertainment, theme park attractions, thrill-seekers, cultural diversity, Malaysia departure, guided exploration, Kuala Lumpur cityscape, skyscrapers, vibrant city life">

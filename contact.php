@@ -3,6 +3,15 @@
 <!DOCTYPE html>
 <html lang="zxx">
     <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-927QTPZFR1');
+        </script>
         <meta charset="utf-8">
         <meta name="description" content="Contact Travel Arcade for all your travel needs. Whether you're planning an adventure tour, sea beach tour, mountain tour, couple tour, night fall tour, or cultural tour, we're here to assist you. Reach out to us for information on Sri Lanka, world tours, air tickets, visa services, and more. We'd love to hear from you and help you plan your next unforgettable journey.">
         <meta name="keywords" content="Travel Arcade, contact, get in touch, travel needs, adventure tours, sea beach tours, mountain tours, couple tours, night fall tours, cultural tours, Sri Lanka, world tours, air tickets, visa services, travel assistance, Colombo, Sri Lanka, explore, plan your journey">

@@ -4,6 +4,15 @@
 <html lang="zxx">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-927QTPZFR1');
+    </script>
     <meta charset="utf-8">
     <meta name="description" content="Explore a 14-day tour plan through the mesmerizing landscapes of Sri Lanka, from the vibrant city life of Colombo to the tranquil beaches of Hikkaduwa. Immerse yourself in cultural experiences, wildlife encounters, and wellness retreats along the way.">
     <meta name="keywords" content="Sri Lanka, travel, tour, Colombo, Dambulla, Yala, Hikkaduwa, wellness retreat, wildlife, cultural experiences, beach, spa, relaxation, adventure, itinerary">

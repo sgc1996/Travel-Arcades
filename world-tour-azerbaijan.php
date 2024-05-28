@@ -4,6 +4,15 @@
 <html lang="zxx">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-927QTPZFR1');
+    </script>
     <meta charset="utf-8">
     <meta name="description" content="Discover the beauty of Azerbaijan with our 6-day tour package. Explore Baku, the Caspian Sea coast, Gobustan National Park, and the scenic Apsheon Peninsula. Immerse yourself in the rich history, culture, and natural wonders of this unique country.">
     <meta name="keywords" content="Azerbaijan tour, Baku, Apsheon Peninsula, Gobustan National Park, Caspian Sea coast, Yanardag, Guba, travel, historical landmarks, cultural experience, guided tour, vacation package">
