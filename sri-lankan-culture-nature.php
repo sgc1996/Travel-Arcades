@@ -4,6 +4,15 @@
 <html lang="zxx">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-927QTPZFR1');
+    </script>
     <meta charset="utf-8">
     <meta name="description" content="Explore the Culture and Nature Expedition tour in Sri Lanka with our 4-night, 5-day adventure. Immerse in rich heritage and natural wonders visiting Colombo, Dambulla, and Kandy." />
     <meta name="keywords" content="Culture and Nature Expedition, Sri Lanka tour, Colombo, Dambulla, Kandy, Sigiriya, Minneriya National Park, Temple of the Tooth Relic, Kandyan dance" />

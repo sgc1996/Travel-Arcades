@@ -3,6 +3,15 @@
 <!DOCTYPE html>
 <html lang="zxx">
     <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-927QTPZFR1');
+        </script>
         <meta charset="utf-8">
         <meta name="description" content="Travel Arcade (Pvt) Ltd is your trusted and dedicated visa service provider, simplifying the visa application process to make your travel dreams a reality. We provide expert guidance, thorough documentation review, and personalized support for obtaining tourist visas, business visas, and family visitor visas. Explore the world with confidence, and let us handle the visa application process while you focus on creating unforgettable memories during your travels.">
         <meta name="keywords" content="Travel Arcade, visa services, tourist visa, business visa, family visitor visa, international travel, visa application, visa assistance, travel dreams, expert guidance, documentation review, personalized support, explore the world, travel insurance, Colombo, Sri Lanka, Dubai, Indonesia, Malaysia, India, Shimla, Manali, Singapore, Thailand, Vietnam, Athens, Azarbaijan ">

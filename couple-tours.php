@@ -3,6 +3,15 @@
 <!DOCTYPE html>
 <html lang="zxx">
     <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-927QTPZFR1');
+        </script>
         <meta charset="utf-8">
         <meta name="description" content="Explore our couple tours in Sri Lanka and around the world. Check out our curated packages, including 'A Honeymoon Journey of Love' in Sri Lanka and 'Indonesia' world tour. Plan your romantic getaway with Travel Arcade.">
         <meta name="keywords" content="couple tours, Sri Lanka, world tours, honeymoon, travel, tourism, romantic getaway, Indonesia, tour packages, Negombo, Kandy, Colombo, Yala, Bentota, Ubud, Kintamani, water sports, Tanah Lot, vacation">

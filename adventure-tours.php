@@ -3,6 +3,15 @@
 <!DOCTYPE html>
 <html lang="zxx">
     <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-927QTPZFR1');
+        </script>
         <meta charset="utf-8">
         <meta name="description" content="Explore captivating destinations around the world with our meticulously crafted World Adventure Tours. From the vibrant cultures of Sri Lanka to the iconic landmarks of Dubai, the tropical beauty of Indonesia, the diverse landscapes of Malaysia, the enchanting Himalayan regions of Shimla & Manali in India, the modern marvels of Singapore, the rich history of Thailand, the scenic beauty of Vietnam, the ancient allure of Athens, and the cultural gems of Azerbaijan – embark on unforgettable journeys with our thoughtfully designed tour packages.">
         <meta name="keywords" content="World Adventure Tours, Sri Lanka, Dubai, Indonesia, Malaysia, India, Singapore, Thailand, Vietnam, Athens, Azerbaijan, cultural tours, nature tours, city tours, historical tours, adventure tours, travel packages, international destinations, holiday packages, vacation tours, exploration, sightseeing">

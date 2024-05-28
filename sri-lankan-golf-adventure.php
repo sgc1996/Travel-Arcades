@@ -4,6 +4,15 @@
 <html lang="zxx">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-927QTPZFR1');
+    </script>
     <meta charset="utf-8">
     <meta name="description" content="Explore the comprehensive features of our Sri Lankan Golf Adventure. Play golf at iconic courses like Royal Colombo Golf Club, Victoria Golf Club, and Nuwara Eliya Golf Club. Enjoy beachfront luxury at Shangri-La's Hambantota Golf Club, with an optional safari for wildlife enthusiasts. This tour combines golfing excellence with Sri Lanka's cultural and natural wonders.">
     <meta name="keywords" content="Sri Lankan Golf Adventure, golf, Sri Lanka, Royal Colombo Golf Club, Victoria Golf Club, Nuwara Eliya Golf Club, Shangri-La's Hambantota Golf Club, safari, wildlife, cultural, natural wonders">

@@ -4,6 +4,15 @@
 <html lang="zxx">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-927QTPZFR1');
+    </script>
     <meta charset="utf-8">
     <meta name="description" content="Explore the enchanting city of Dubai with our 4-day tour package. From iconic landmarks like the Burj Khalifa to relaxing cruises and thrilling desert safaris, our Dubai Tour promises a memorable experience in this vibrant destination.">
     <meta name="keywords" content="Dubai tour, Creek Dhow Cruise Dinner, Evening Dessert Safari, Burj Khalifa, desert safari, Arabian Dhow, international cuisine, travel, guided tour, vacation package">

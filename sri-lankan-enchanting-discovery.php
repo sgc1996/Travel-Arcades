@@ -4,6 +4,15 @@
 <html lang="zxx">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-927QTPZFR1');
+    </script>
     <meta charset="utf-8">
     <meta name="description" content="Discover Sri Lanka: From the sacred Temple of the Tooth Relic in Kandy to the breathtaking Sigiriya Rock Fortress, our itinerary offers an unforgettable journey through the heart of Sri Lanka. Explore tea plantations, wildlife at Wasgamuwa National Park, and the captivating Dambulla Cave Temple. Enjoy the sun-kissed Negombo Beach and the vibrant Colombo City, complete with shopping excursions. Uncover the enchanting essence of Sri Lanka with us." />
     <meta name="keywords" content="Sri Lanka, discovery tour, Kandy, Nuwara Eliya, Dambulla, Negombo, travel, tourism, cultural, wildlife, beach, Colombo" />

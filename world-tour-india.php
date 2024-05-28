@@ -4,6 +4,15 @@
 <html lang="zxx">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-927QTPZFR1');
+    </script>
     <meta charset="utf-8">
     <meta name="description" content="Experience the beauty of Shimla and Manali with our 6-day tour package. Explore the charming landscapes, visit iconic landmarks, and indulge in the rich cultural heritage of India. A journey that combines adventure, relaxation, and cultural discovery in the Himalayan region.">
     <meta name="keywords" content="India tour, Shimla, Manali, Kullu, Chandigarh, Delhi, travel, guided tour, vacation package, Himalayan tour, cultural exploration, adventure, shopping, Solang Valley, Hadimba Devi Temple, city tour, Indira Gandhi International Airport, departure flight">

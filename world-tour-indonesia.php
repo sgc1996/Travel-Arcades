@@ -4,6 +4,15 @@
 <html lang="zxx">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-927QTPZFR1');
+    </script>
     <meta charset="utf-8">
     <meta name="description" content="Embark on an unforgettable journey with our 4-day Indonesia Tour. Explore the rich natural ecosystems, ancient temples, and vibrant cultural festivities. From the forests of Sumatra to the stunning beaches of Bali, experience the diverse beauty of Indonesia.">
     <meta name="keywords" content="Indonesia tour, Bali, Ubud, Kintamani, water sports, Tanah Lot Temple, Ngurah Rai International Airport, Denpasar, Kitamani Volcano, Tegalalang village, holy spring temple, Turtle Island, cultural tour, romantic dinner, Jumbaran Beach, travel, guided tour, vacation package, UNESCO World Heritage sites, cultural exploration, adventure, Indonesian heritage, colonial heritage, Ngurah Rai International Airport, departure flight">

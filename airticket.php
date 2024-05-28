@@ -100,6 +100,15 @@ $message = '
 <!DOCTYPE html>
 <html lang="zxx">
     <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-927QTPZFR1');
+        </script>
         <meta charset="utf-8">
         <meta name="description" content="Travel Arcade offers efficient and convenient air ticket services, characterized by correct pricing and exceptional efficiency. Choose from a wide selection of airlines and itineraries, enjoy savings through expert deal-finding, and experience hassle-free convenience with luggage and seat options. Whether it's a round trip, one way, or multi-city itinerary, Travel Arcade's dedicated support team ensures a smooth journey from booking to after-flight assistance. Innovation and personal touches set Travel Arcade's air ticket services apart in the travel sector.">
         <meta name="keywords" content="Travel Arcade, air tickets, flight booking, airline tickets, travel agency, round trip, one way, multi-city itinerary, booking support, convenience, luggage options, seat options, efficient travel, innovation in travel, Colombo, Sri Lanka, international flights, domestic flights, travel assistance, deal-finding, travel savings, malaysia airline, Srilankan Airline, Singapore Airlines, Emirates, Etihad, Gulf Air, Qatar Airways, Turkish Airline, Air India, Air Canada, Fly Dubai, IndiGo, Oman Air, United Airlines, American Airline">

@@ -4,6 +4,15 @@
 <html lang="zxx">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-927QTPZFR1');
+    </script>
     <meta charset="utf-8">
     <meta name="description" content="Your brief description of the tour itinerary goes here.">
     <meta name="keywords" content="Sri Lanka Tour, Travel Experience, Cultural Heritage, UNESCO Sites, Historical Sites, Temples, Dambulla, Sigiriya, Polonnaruwa, Anuradhapura, Kandy, Temple of the Tooth Relic, Kandyan Dance, Galle, Kelaniya Temple, Galle Fort, Colombo City Tour, Geoffrey Bawa House, Sri Lankan Architecture, Ambalangoda Mask Factory">

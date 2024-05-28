@@ -4,6 +4,15 @@
 <html lang="zxx">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-927QTPZFR1');
+    </script>
     <meta charset="utf-8">
     <meta name="description" content="Embark on an unforgettable journey with our 7-day Vietnam Tour. From the warm welcome at Noi Bai International Airport to the exploration of Hanoi's landmarks, a Halong Bay cruise with exciting activities, a domestic flight to Ho Chi Minh City, and tours to Cu Chi Tunnel and Mekong Delta – immerse yourself in the beauty, history, and culture of Vietnam. Book our comprehensive tour package for a remarkable travel experience.">
     <meta name="keywords" content="Vietnam tour, Noi Bai International Airport, Hanoi, City Tour, Halong Bay Cruise, Ho Chi Minh City, domestic flight, Cu Chi Tunnel, Mekong Delta, Tan Son Nhat International Airport, 7-day tour, landmarks, Halong Bay activities, domestic flight, cultural exploration, guided tour, vacation package, departure flight">

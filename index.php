@@ -3,6 +3,15 @@
 <!DOCTYPE html>
 <html lang="zxx">
     <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-927QTPZFR1');
+        </script>
         <meta charset="utf-8">
         <meta name="author" content="A.i Tech">
         <meta name="description" content="Discover amazing tours and travel arrangements with Travel Arcade. Specialized in cultural immersion, beach bliss, and world tours. Contact us for unforgettable adventures!">
@@ -1435,24 +1444,8 @@
         <script src="assets/js/jquery.meanmenu.min.js"></script>
         <!-- main js -->
         <script src="assets/js/script.js"></script>
-
-        <!-- Popup -->
-        <!-- Automatic show popup after 2 seconds of page load -->
-        <script>
-            const popup = document.querySelector('.popup');
-            const close = document.querySelector('.close');
-
-            window.onload = function(){
-                setTimeout(function(){
-                    popup.style.display = "block"
-
-                    //Add some time delay to show popup
-                }, 2000)
-            }
-
-            close.addEventListener('click', () => {
-                popup.style.display = "none";
-            })
-        </script>
+        <!-- popup -->
+        <!-- <script src="assets/js/popup.js"></script> -->
+        
     </body>
 </html>

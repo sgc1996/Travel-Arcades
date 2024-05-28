@@ -4,6 +4,15 @@
 <html lang="zxx">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-927QTPZFR1');
+    </script>
     <meta charset="utf-8">
     <meta name="description" content="Explore the comprehensive features of our Discovering Sri Lanka's Rich Flora and Fauna tour package. Immerse yourself in the island's diverse flora and fauna on this 10-day adventure.">
     <meta name="keywords" content="Sri Lanka, tour, flora, fauna, wildlife, adventure, Sinharaja Forest, Udawalawe, Yala, Nuwara Eliya, Negombo, travel">

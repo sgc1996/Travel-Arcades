@@ -4,6 +4,15 @@
 <html lang="zxx">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-927QTPZFR1');
+    </script>
     <meta charset="utf-8">
     <meta name="description" content="Explore the Essence of Sri Lanka with our meticulously crafted itinerary. Visit Colombo, Kandy, Nuwara Eliya, and Bentota in this 8-day adventure.">
     <meta name="keywords" content="Sri Lanka, travel, tour, Colombo, Kandy, Nuwara Eliya, Bentota, adventure, cultural treasures, natural wonders">

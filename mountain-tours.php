@@ -3,6 +3,15 @@
 <!DOCTYPE html>
 <html lang="zxx">
     <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-927QTPZFR1');
+        </script>
         <meta charset="utf-8">
         <meta name="description" content="Discover the beauty of mountainous landscapes with our World Mountain Tours. Explore destinations like Shimla & Manali in India and embark on a journey filled with scenic beauty and adventure. Plan your mountainous escapade with Travel Arcade.">
         <meta name="keywords" content="world tours, mountain tours, travel, tourism, India, Shimla, Manali, Shimla & Manali, scenic beauty, adventure, tour packages, Kullu, Chandigarh, Delhi, vacation">

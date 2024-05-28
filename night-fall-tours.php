@@ -3,6 +3,15 @@
 <!DOCTYPE html>
 <html lang="zxx">
     <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-927QTPZFR1');
+        </script>
         <meta charset="utf-8">
         <meta name="description" content="Experience the enchanting beauty of nightfall with our World Night Fall Tours. Discover the vibrant nightlife of destinations like Dubai, Indonesia, Malaysia, India, Singapore, Thailand, Vietnam, Athens, and Azerbaijan. Plan your unforgettable night adventures with Travel Arcade.">
         <meta name="keywords" content="world tours, night fall tours, travel, tourism, Dubai, Indonesia, Malaysia, India, Singapore, Thailand, Vietnam, Athens, Azerbaijan, night adventure, nightlife, tour packages, travel destinations, Creek Dhow Cruise Dinner, Evening Dessert Safari, Ubud, Kintamani, Water sports, Sun set tanah lot, Sunway Lagoon Theme Park, Shimla, Manali, Kullu, Chandigarh, Delhi, Universal Studio, Dream Word Tour, Hanlong Bay Cruise, Ho Chi Minh, Cu Chi Tunnel, Mekong Delta, Argolis Tour, Delphi Tour, Baku Tour, Apsheon Peninsula, Gobustan">

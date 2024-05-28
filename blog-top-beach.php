@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="zxx">
     <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-927QTPZFR1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-927QTPZFR1');
+        </script>
         <meta charset="utf-8">
         <meta name="description" content="Explore the top beaches in Sri Lanka with this guide. From Unawatuna to Kalpitiya, discover the beauty of Sri Lanka's tropical coastline, wildlife, and exciting water activities. Plan your visit to these stunning beach destinations.">
         <meta name="keywords" content="Sri Lanka, beaches, Unawatuna Beach, Mirissa Beach, Bentota Beach, Arugam Bay Beach, Kalkudah Beach, Nilaveli Beach, Kalpitiya Beach, travel, tourism, water sports, wildlife, surfing, vacation, coastal destinations">
