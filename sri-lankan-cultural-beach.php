@@ -833,7 +833,7 @@
                 <div class="row align-items-center">
                     <div class="col footer-lower-item">
                         <div class="footer-copyright-text">
-                            <p>Copyright ©2023 . Designed & Developed By <a href="https://aitech.lk/" target="_blank">A.I TECH</a></p>
+                            <p>Copyright ©<script>document.write(new Date().getFullYear());</script> . Designed & Developed By <a href="https://aitech.lk/" target="_blank">A.I TECH</a></p>
                         </div>
                     </div>
                     <div class="col footer-lower-item footer-lower-right">
