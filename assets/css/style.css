@@ -2845,6 +2845,10 @@ button:focus, button:active {
   background-image: url(../images/inner-page-header/sri-lankan-ramayana-trail-1.jpg);
 }
 
+.ramayana-trail-2 {
+  background-image: url(../images/inner-page-header/sri-lankan-ramayana-trail-2.jpg);
+}
+
 .sri-lankan-golf-adventure-page {
   background-image: url(../images/inner-page-header/sri-lankan-golf-adventure-page.jpg);
 }

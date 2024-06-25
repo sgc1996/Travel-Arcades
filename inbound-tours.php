@@ -264,7 +264,7 @@
                     <div class="col-md-6 col-lg-4 pb-30">
                         <div class="card-2">
                             <div class="card-2-image">
-                                <img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/immersion-and-beach-bliss-page.jpg" alt="Ramayana Trail - 2">
+                                <img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-2/sri-lankan-ramayana-trail-2-page.jpg" alt="Ramayana Trail - 2">
                             </div>
                             <div class="card-2-content">
                                 <ul class="card-2-entry">

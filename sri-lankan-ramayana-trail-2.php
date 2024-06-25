@@ -191,7 +191,7 @@
     </div>
     <!-- Navbar -->
     <!-- Header -->
-    <header class="inner-page-header immersion-beach-page">
+    <header class="inner-page-header ramayana-trail-2">
         <div class="inner-header-shape"></div>
         <!-- header-content -->
         <div class="container">
@@ -225,28 +225,19 @@
                     <div class="col-lg-6">
                         <div class="details-card-image-carousel owl-carousel owl-theme default-owl-theme">
                             <div class="item">
-                                <img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/colombo.jpg" alt="Colombo">
+                                <img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-1/ramboda.jpg" alt="Ramboda">
                             </div>
                             <div class="item">
-                                <img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/habarana.jpg" alt="Habarana">
+                                <img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-2/ella.jpg" alt="Ella">
                             </div>
                             <div class="item">
-                                <img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/anuradhapura.jpg" alt="Anuradhapura">
+                                <img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-1/Katharagama.jpg" alt="Katharagama">
                             </div>
                             <div class="item">
-                                <img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/polonnaruwa.jpg" alt="Polonnaruwa">
+                                <img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-2/waskaduwa.jpg" alt="Waskaduwa">
                             </div>
                             <div class="item">
-                                <img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/sigiriya.jpg" alt="Sigiriya">
-                            </div>
-                            <div class="item">
-                                <img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/kandy.jpg" alt="Kandy">
-                            </div>
-                            <div class="item">
-                                <img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/ella.jpg" alt="Ella">
-                            </div>
-                            <div class="item">
-                                <img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/galle.jpg" alt="Galle">
+                                <img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-2/colombo.jpg" alt="Colombo">
                             </div>
                         </div>
                     </div>
@@ -530,26 +521,26 @@
                     </div>
                     <div class="container">
                         <div class="image-container">
-                            <div class="image"><img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/gallery/colombo-01.jpg" alt="Colombo"></div>
-                            <div class="image"><img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/gallery/colombo-02.jpg" alt="Colombo"></div>
-                            <div class="image"><img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/gallery/habarana-01.jpg" alt="Habarana"></div>
-                            <div class="image"><img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/gallery/anuradhapura-01.jpg" alt="Anuradhapura"></div>
-                            <div class="image"><img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/gallery/polonnaruwa-01.jpg" alt="Polonnaruwa"></div>
-                            <div class="image"><img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/gallery/minneriya-01.jpg" alt="Minneriya"></div>
-                            <div class="image"><img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/gallery/sigiriya-01.jpg" alt="Sigiriya"></div>
-                            <div class="image"><img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/gallery/sigiriya-02.jpg" alt="Sigiriya"></div>
-                            <div class="image"><img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/gallery/kandy-01.jpg" alt="Kandy"></div>
-                            <div class="image"><img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/gallery/ella-01.jpg" alt="Ella"></div>
-                            <div class="image"><img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/gallery/ella-02.jpg" alt="Ella"></div>
-                            <div class="image"><img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/gallery/ella-03.jpg" alt="Ella"></div>
-                            <div class="image"><img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/gallery/mirissa-01.jpg" alt="Mirissa"></div>
-                            <div class="image"><img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/gallery/galle-01.jpg" alt="Galle"></div>
-                            <div class="image"><img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/gallery/beach-01.jpg" alt="Galle"></div>
-                            <div class="image"><img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/gallery/beach-02.jpg" alt="Galle"></div>
+                            <div class="image"><img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-1/gallery/ramboda-1.jpg" alt="Ramboda"></div>
+                            <div class="image"><img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-1/gallery/ramboda-2.jpg" alt="Ramboda"></div>
+                            <div class="image"><img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-1/gallery/ella-1.jpg" alt="Ella"></div>
+                            <div class="image"><img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-1/gallery/ella-2.jpg" alt="Ella"></div>
+                            <div class="image"><img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-1/gallery/ella-3.jpg" alt="Ella"></div>
+                            <div class="image"><img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-1/gallery/ella-4.jpg" alt="Ella"></div>
+                            <div class="image"><img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-2/gallery/ella-1.jpg" alt="Ella"></div>
+                            <div class="image"><img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-2/gallery/ella-2.jpg" alt="Ella"></div>
+                            <div class="image"><img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-2/gallery/ella-3.jpg" alt="Ella"></div>
+                            <div class="image"><img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-1/gallery/katharagama-1.jpg" alt="Katharagama"></div>
+                            <div class="image"><img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-1/gallery/katharagama-2.jpg" alt="Katharagama"></div>
+                            <div class="image"><img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-2/gallery/waskaduwa-1.jpg" alt="Waskaduwa"></div>
+                            <div class="image"><img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-2/gallery/waskaduwa-2.jpg" alt="Waskaduwa"></div>
+                            <div class="image"><img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-2/gallery/waskaduwa-3.jpg" alt="Waskaduwa"></div>
+                            <div class="image"><img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-2/gallery/colombo-1.jpg" alt="Colombo"></div>
+                            <div class="image"><img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-2/gallery/colombo-2.jpg" alt="Colombo"></div>
                         </div>
                         <div class="popup-image">
                             <span>&times;</span>
-                            <img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/gallery/colombo-01.jpg" alt="">
+                            <img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-1/gallery/ramboda-1.jpg" alt="">
                         </div>
                     </div>
                 </section>
