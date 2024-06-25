@@ -14,10 +14,17 @@
     gtag('config', 'G-927QTPZFR1');
     </script>
     <meta charset="utf-8">
-    <meta name="description" content="Explore amazing sea beach tours in Sri Lanka and around the world with Travel Arcade. Discover cultural immersion, adventure, and more. Plan your next journey with us.">
-    <meta name="keywords" content="sea beach tours, Sri Lanka, world tours, adventure tours, cultural tours, Travel Arcade, Colombo, Habarana, Anuradhapura, Polonnaruwa, Sigiriya, Kandy, Ella, Galle, Day and Night Tour, Temple of tooth Relic, Kandyan Dance, Train Ride, Ravana Caves, Mirissa, Sandy Beaches, Minneriya, National Park, Architecture, Dambulla, Rock Cave Temple">
+    <meta name="keywords" content="Ramayana Trail, Sri Lanka tours, Ramayana tour Sri Lanka, Travel Arcade, Ramayana Trail itinerary, Ramboda, Ella, Katharagama, Waskaduwa, Colombo, Sri Lanka travel, Ramayana sites, Hindu pilgrimage Sri Lanka, Sri Lankan culture, Sri Lankan history, spiritual tour Sri Lanka, epic Ramayana, Sri Baktha Hanuman Temple, Sita Amman Temple, Nine Arch Bridge, Ravana Caves, Katharagama Temple, Ussangoda, Rumassala Sanjeevani Drops, Madu River, Sri Lankan cuisine, Sri Lankan hospitality">
+    <meta name="description" content="Explore the ancient epic of Ramayana with Travel Arcade's Ramayana Trail in Sri Lanka. Visit significant sites, enjoy traditional performances, and indulge in authentic Sri Lankan cuisine.">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+    <meta property="og:title" content="Ramayana Trail - 2 | Travel Arcades">
+    <meta property="og:description" content="Join us on a captivating journey through the Ramayana Trail in Sri Lanka. Discover significant historical and spiritual sites, enjoy traditional performances, and savor authentic Sri Lankan cuisine.">
+    <meta property="og:image" content="https://www.travelarcades.com/assets/images/ta-logo-1.png">
+    <meta property="og:url" content="https://www.travelarcades.com/sri-lankan-ramayana-trail-2.php">
+    <meta property="og:type" content="website">
+
     <title>Travel Arcade - Ramayana Trail - 2</title>
     <link rel="icon" href="assets/images/favicon.png" type="image/png" sizes="16x16">
 

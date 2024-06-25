@@ -17,6 +17,14 @@
         <meta name="keywords" content="Travel Arcade, tours, travel arrangements, Sri Lanka, world tours, air tickets, visa services, adventure tours, sea beach tours, mountain tours, couple tours, night fall tours, cultural tours, Sri Lanka tourism, travel agency, explore, adventure, vacation, holiday, tourism, Colombo, travel partners, tour packages, 
         Travel Arcade, your travel ambitions, strategic travel counseling, Senok Travel Bureau Limited, Ms B M D Madawela,HTML,CSS,JavaScript">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+        <meta property="og:title" content="Travel Arcade">
+        <meta property="og:description" content="Join us on a captivating journey through Sri Lanka. Discover significant historical and spiritual sites, enjoy traditional performances, and savor authentic Sri Lankan cuisine.">
+        <meta property="og:image" content="https://www.travelarcades.com/assets/images/ta-logo-1.png">
+        <meta property="og:url" content="https://www.travelarcades.com/">
+        <meta property="og:type" content="website">
+
+        
         <title>Travel Arcade - About Us</title>
         <link rel="icon" href="assets/images/favicon.png" type="image/png" sizes="16x16">
 
