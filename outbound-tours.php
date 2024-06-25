@@ -234,15 +234,15 @@
                                 <div class="card-1-info">
                                     <ul class="card-2-entry">
                                         <li>
-                                            <i class="flaticon-calendar"></i>
-                                            04 Days | 03 Nights
+                                            <a href="world-tour-dubai.php"><i class="flaticon-calendar"></i>
+                                            04 Days | 03 Nights</a>
                                         </li>
                                     </ul>
                                     <h3>
                                         <a href="world-tour-dubai.php">Dubai</a>
                                     </h3>
                                 </div>
-                                <p>Creek Dhow Cruise Dinner | Evening Dessert Safari</p>
+                                <a href="world-tour-dubai.php"><p>Creek Dhow Cruise Dinner | Evening Dessert Safari</p></a>
                             </div>
                             <div class="destination-card-link">
                                 <a href="world-tour-dubai.php"><i class="flaticon-export"></i></a>
@@ -259,15 +259,15 @@
                                 <div class="card-1-info">
                                     <ul class="card-2-entry">
                                         <li>
-                                            <i class="flaticon-calendar"></i>
-                                            04 Days | 03 Nights
+                                            <a href="world-tour-indonesia.php"><i class="flaticon-calendar"></i>
+                                            04 Days | 03 Nights</a>
                                         </li>
                                     </ul>
                                     <h3>
                                         <a href="world-tour-indonesia.php">Indonesia</a>
                                     </h3>
                                 </div>
-                                <p>Ubud | Kintamani | Water sports and Sun set tanah lot</p>
+                                <a href="world-tour-indonesia.php"><p>Ubud | Kintamani | Water sports and Sun set tanah lot</p></a>
                             </div>
                             <div class="destination-card-link">
                                 <a href="inbound-tours.php"><i class="flaticon-export"></i></a>
@@ -284,15 +284,15 @@
                                 <div class="card-1-info">
                                     <ul class="card-2-entry">
                                         <li>
-                                            <i class="flaticon-calendar"></i>
-                                            04 Days | 03 Nights
+                                            <a href="world-tour-malaysia.php"><i class="flaticon-calendar"></i>
+                                            04 Days | 03 Nights</a>
                                         </li>
                                     </ul>
                                     <h3>
                                         <a href="world-tour-malaysia.php">Malaysia</a>
                                     </h3>
                                 </div>
-                                <p>Half-Day City Tour | Sunway Lagoon Theme Park</p>
+                                <a href="world-tour-malaysia.php"><p>Half-Day City Tour | Sunway Lagoon Theme Park</p></a>
                             </div>
                             <div class="destination-card-link">
                                 <a href="world-tour-malaysia.php"><i class="flaticon-export"></i></a>
@@ -309,15 +309,15 @@
                                 <div class="card-1-info">
                                     <ul class="card-2-entry">
                                         <li>
-                                            <i class="flaticon-calendar"></i>
-                                            06 Days | 05 Nights
+                                            <a href="world-tour-india.php"><i class="flaticon-calendar"></i>
+                                            06 Days | 05 Nights</a>
                                         </li>
                                     </ul>
                                     <h3>
                                         <a href="world-tour-india.php">Shimla & Manali</a>
                                     </h3>
                                 </div>
-                                <p>Shimla | Manali | Kullu | Chandigarh | Delhi</p>
+                                <a href="world-tour-india.php"><p>Shimla | Manali | Kullu | Chandigarh | Delhi</p></a>
                             </div>
                             <div class="destination-card-link">
                                 <a href="world-tour-india.php"><i class="flaticon-export"></i></a>
@@ -334,15 +334,15 @@
                                 <div class="card-1-info">
                                     <ul class="card-2-entry">
                                         <li>
-                                            <i class="flaticon-calendar"></i>
-                                            04 Days | 03 Nights
+                                            <a href="world-tour-singapore.php"><i class="flaticon-calendar"></i>
+                                            04 Days | 03 Nights</a>
                                         </li>
                                     </ul>
                                     <h3>
                                         <a href="world-tour-singapore.php">Singapore</a>
                                     </h3>
                                 </div>
-                                <p>Half-Day City Tour | Universal Studio</p>
+                                <a href="world-tour-singapore.php"><p>Half-Day City Tour | Universal Studio</p></a>
                             </div>
                             <div class="destination-card-link">
                                 <a href="world-tour-singapore.php"><i class="flaticon-export"></i></a>
@@ -359,15 +359,15 @@
                                 <div class="card-1-info">
                                     <ul class="card-2-entry">
                                         <li>
-                                            <i class="flaticon-calendar"></i>
-                                            04 Days | 03 Nights
+                                            <a href="world-tour-thailand.php"><i class="flaticon-calendar"></i>
+                                            04 Days | 03 Nights</a>
                                         </li>
                                     </ul>
                                     <h3>
                                         <a href="world-tour-thailand.php">Thailand</a>
                                     </h3>
                                 </div>
-                                <p>City Tour | Temple Tour | Dream Word Tour</p>
+                                <a href="world-tour-thailand.php"><p>City Tour | Temple Tour | Dream Word Tour</p></a>
                             </div>
                             <div class="destination-card-link">
                                 <a href="world-tour-thailand.php"><i class="flaticon-export"></i></a>
@@ -384,15 +384,15 @@
                                 <div class="card-1-info">
                                     <ul class="card-2-entry">
                                         <li>
-                                            <i class="flaticon-calendar"></i>
-                                            07 Days | 06 Nights
+                                            <a href="world-tour-vietnam.php"><i class="flaticon-calendar"></i>
+                                            07 Days | 06 Nights</a>
                                         </li>
                                     </ul>
                                     <h3>
                                         <a href="world-tour-vietnam.php">Vietnam</a>
                                     </h3>
                                 </div>
-                                <p>Full-Day City Tour | Hanlong Bay Cruise | Ho Chi Minh | Cu Chi Tunnel | Mekong Delta</p>
+                                <a href="world-tour-vietnam.php"><p>Full-Day City Tour | Hanlong Bay Cruise | Ho Chi Minh | Cu Chi Tunnel | Mekong Delta</p></a>
                             </div>
                             <div class="destination-card-link">
                                 <a href="world-tour-vietnam.php"><i class="flaticon-export"></i></a>
@@ -409,15 +409,15 @@
                                 <div class="card-1-info">
                                     <ul class="card-2-entry">
                                         <li>
-                                            <i class="flaticon-calendar"></i>
-                                            05 Days | 04 Nights
+                                            <a href="world-tour-athens.php"><i class="flaticon-calendar"></i>
+                                            05 Days | 04 Nights</a>
                                         </li>
                                     </ul>
                                     <h3>
                                         <a href="world-tour-athens.php">Athens</a>
                                     </h3>
                                 </div>
-                                <p>Argolis Tour | Delphi Tour | Full Day Leisure</p>
+                                <a href="world-tour-athens.php"><p>Argolis Tour | Delphi Tour | Full Day Leisure</p></a>
                             </div>
                             <div class="destination-card-link">
                                 <a href="world-tour-athens.php"><i class="flaticon-export"></i></a>
@@ -434,15 +434,15 @@
                                 <div class="card-1-info">
                                     <ul class="card-2-entry">
                                         <li>
-                                            <i class="flaticon-calendar"></i>
-                                            06 Days | 05 Nights
+                                            <a href="world-tour-azerbaijan.php"><i class="flaticon-calendar"></i>
+                                            06 Days | 05 Nights</a>
                                         </li>
                                     </ul>
                                     <h3>
                                         <a href="world-tour-azerbaijan.php">Azerbaijan</a>
                                     </h3>
                                 </div>
-                                <p>Baku Tour | Apsheon Peninsula | Gobustan (Guba)</p>
+                                <a href="world-tour-azerbaijan.php"><p>Baku Tour | Apsheon Peninsula | Gobustan (Guba)</p></a>
                             </div>
                             <div class="destination-card-link">
                                 <a href="world-tour-azerbaijan.php"><i class="flaticon-export"></i></a>

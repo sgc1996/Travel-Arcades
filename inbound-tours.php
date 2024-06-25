@@ -237,6 +237,60 @@
                     <div class="col-md-6 col-lg-4 pb-30">
                         <div class="card-2">
                             <div class="card-2-image">
+                                <img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-1/sri-lankan-ramayana-trail-1-page.jpg" alt="Ramayana Trail - 1">
+                            </div>
+                            <div class="card-2-content">
+                                <ul class="card-2-entry">
+                                    <li>
+                                        <i class="flaticon-calendar"></i>
+                                        8 Days | 7 Nights
+                                    </li>
+                                </ul>
+                                <div class="card-2-info">
+                                    <h3>
+                                        <a href="sri-lankan-ramayana-trail-1.php">Ramayana Trail - 1</a>
+                                    </h3>
+                                    <!-- <div class="card-2-info-price">$350<span>/per</span></div> -->
+                                </div>
+                                <p>Colombo | Anuradhapura | Jaffna | Trincomalee | Ramboda | Ella | Katharagama</p>
+                                <div class="card-2-footer">
+                                    <div class="card-2-action">
+                                        <a href="sri-lankan-ramayana-trail-1.php">Explore Tour <i class="flaticon-export"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 pb-30">
+                        <div class="card-2">
+                            <div class="card-2-image">
+                                <img src="assets/images/inbound-tours/sri-lankan-ramayana-trail-2/sri-lankan-ramayana-trail-2-page.jpg" alt="Ramayana Trail - 2">
+                            </div>
+                            <div class="card-2-content">
+                                <ul class="card-2-entry">
+                                    <li>
+                                        <i class="flaticon-calendar"></i>
+                                        6 Days | 5 Nights
+                                    </li>
+                                </ul>
+                                <div class="card-2-info">
+                                    <h3>
+                                        <a href="sri-lankan-ramayana-trail-2.php">Ramayana Trail - 2</a>
+                                    </h3>
+                                    <!-- <div class="card-2-info-price">$350<span>/per</span></div> -->
+                                </div>
+                                <p>Ramboda | Ella | Katharagama | Waskaduwa | Colombo</p>
+                                <div class="card-2-footer">
+                                    <div class="card-2-action">
+                                        <a href="sri-lankan-ramayana-trail-2.php">Explore Tour <i class="flaticon-export"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 pb-30">
+                        <div class="card-2">
+                            <div class="card-2-image">
                                 <img src="assets/images/inbound-tours/cultural-immersion-and-beach-bliss/immersion-and-beach-bliss-page.jpg" alt="Cultural Immersion and Beach Bliss">
                             </div>
                             <div class="card-2-content">

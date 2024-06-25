@@ -380,12 +380,12 @@
                                     </div>
                                     <div class="col-6 col-sm-4 col-lg-4">
                                         <div class="forum-details-inner-image">
-                                            <img src="assets/images/blogs/top-beach-visit-sri-lanka/kalpitiya-1.jpg" alt="Kalpitiya Beach">
+                                            <img src="assets/images/blogs/top-beach-visit-sri-lanka/kalpitiya-3.jpg" alt="Kalpitiya Beach">
                                         </div>
                                     </div>
                                     <div class="col-6 col-sm-4 col-lg-4 offset-3 offset-sm-0">
                                         <div class="forum-details-inner-image">
-                                            <img src="assets/images/blogs/top-beach-visit-sri-lanka/kalpitiya-1.jpg" alt="Kalpitiya Beach">
+                                            <img src="assets/images/blogs/top-beach-visit-sri-lanka/kalpitiya-2.jpg" alt="Kalpitiya Beach">
                                         </div>
                                     </div>
                                 </div>
