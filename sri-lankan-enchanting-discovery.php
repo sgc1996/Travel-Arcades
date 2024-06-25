@@ -18,6 +18,14 @@
     <meta name="keywords" content="Sri Lanka, discovery tour, Kandy, Nuwara Eliya, Dambulla, Negombo, travel, tourism, cultural, wildlife, beach, Colombo" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+    <meta property="og:title" content="Travel Arcade">
+    <meta property="og:description" content="Join us on a captivating journey through Sri Lanka. Discover significant historical and spiritual sites, enjoy traditional performances, and savor authentic Sri Lankan cuisine.">
+    <meta property="og:image" content="https://www.travelarcades.com/assets/images/ta-logo-1.png">
+    <meta property="og:url" content="https://www.travelarcades.com/">
+    <meta property="og:type" content="website">
+
+
     <title>Travel Arcade - Enchanting Sri Lanka Discovery Tour</title>
     <link rel="icon" href="assets/images/favicon.png" type="image/png" sizes="16x16">
 

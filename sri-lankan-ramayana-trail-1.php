@@ -14,10 +14,18 @@
     gtag('config', 'G-927QTPZFR1');
     </script>
     <meta charset="utf-8">
-    <meta name="description" content="Explore amazing sea beach tours in Sri Lanka and around the world with Travel Arcade. Discover cultural immersion, adventure, and more. Plan your next journey with us.">
-    <meta name="keywords" content="sea beach tours, Sri Lanka, world tours, adventure tours, cultural tours, Travel Arcade, Colombo, Habarana, Anuradhapura, Polonnaruwa, Sigiriya, Kandy, Ella, Galle, Day and Night Tour, Temple of tooth Relic, Kandyan Dance, Train Ride, Ravana Caves, Mirissa, Sandy Beaches, Minneriya, National Park, Architecture, Dambulla, Rock Cave Temple">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Embark on the captivating Ramayana Trail in Sri Lanka with Travel Arcades. Explore historical and spiritual sites over an 8-day journey, experiencing authentic Sri Lankan culture, cuisine, and hospitality.">
+    <meta name="keywords" content="Ramayana Trail, Sri Lanka tour, Anuradhapura, Jaffna, Trincomalee, Ramboda, Ella, Katharagama, cultural tours, spiritual tours, Sri Lankan cuisine, historical sites, Travel Arcades">
+    
+    <meta property="og:title" content="Ramayana Trail - Travel Arcades">
+    <meta property="og:description" content="Join the Ramayana Trail in Sri Lanka with Travel Arcades. Visit significant historical and spiritual sites over an 8-day journey. Experience authentic Sri Lankan culture, cuisine, and warm hospitality.">
+    <meta property="og:image" content="https://www.travelarcades.com/assets/images/ta-logo-1.png">
+    <meta property="og:url" content="https://www.travelarcades.com/sri-lankan-ramayana-trail-1.php">
+    <meta property="og:type" content="website">
+
     <title>Travel Arcade - Ramayana Trail - 1</title>
     <link rel="icon" href="assets/images/favicon.png" type="image/png" sizes="16x16">
 
