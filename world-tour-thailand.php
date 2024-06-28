@@ -230,6 +230,9 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="details-card-image-carousel owl-carousel owl-theme default-owl-theme">
+                        <div class="item">
+                                <img src="assets/images/outbound-tours/thailand/slide-4.jpg" alt="Thailand">
+                            </div>
                             <div class="item">
                                 <img src="assets/images/outbound-tours/thailand/slide-1.jpg" alt="Thailand">
                             </div>
@@ -375,6 +378,7 @@
                     </div>
                     <div class="container">
                         <div class="image-container">
+                            <div class="image"><img src="assets/images/outbound-tours/thailand/gallery/thailand-13.jpg" alt="Thailand"></div>
                             <div class="image"><img src="assets/images/outbound-tours/thailand/gallery/thailand-01.jpg" alt="Thailand"></div>
                             <div class="image"><img src="assets/images/outbound-tours/thailand/gallery/thailand-02.jpg" alt="Thailand"></div>
                             <div class="image"><img src="assets/images/outbound-tours/thailand/gallery/thailand-03.jpg" alt="Thailand"></div>
