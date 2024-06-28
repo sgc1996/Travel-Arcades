@@ -231,6 +231,9 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="details-card-image-carousel owl-carousel owl-theme default-owl-theme">
+                        <div class="item">
+                                <img src="assets/images/outbound-tours/india/slide-05.jpg" alt="India">
+                            </div>
                             <div class="item">
                                 <img src="assets/images/outbound-tours/india/slide-01.jpg" alt="India">
                             </div>
@@ -400,6 +403,7 @@
                     </div>
                     <div class="container">
                         <div class="image-container">
+                            <div class="image"><img src="assets/images/outbound-tours/india/gallery/india-13.jpg" alt="India"></div>
                             <div class="image"><img src="assets/images/outbound-tours/india/gallery/india-01.jpg" alt="India"></div>
                             <div class="image"><img src="assets/images/outbound-tours/india/gallery/india-02.jpg" alt="India"></div>
                             <div class="image"><img src="assets/images/outbound-tours/india/gallery/india-03.jpg" alt="India"></div>
