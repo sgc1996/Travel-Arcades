@@ -392,6 +392,18 @@
                     <h2>Testimonials</h2>
                 </div>
                 <div class="testimonial-carousel owl-carousel owl-theme">
+                <div class="item">
+                        <div class="testimonial-card text-center">
+                            <div class="testimoial-quote">
+                                <i class="flaticon-left-quote"></i>
+                            </div>
+                            <p class="testimonial-feedback">Travel Arcade staff was very efficient, communicative, and helpful. They made it very easy to plan and enjoy our holiday in Sri Lanka.</p>
+                            <div class="testimonial-client-info">
+                                <h3 class="testimonial-name">- Mrs. Thulani Ashcroft</h3>
+                            </div>
+                        </div>
+                    </div>
+
                     <div class="item">
                         <div class="testimonial-card text-center">
                             <div class="testimoial-quote">

@@ -256,14 +256,14 @@
                                 </ul>
                                 <div class="card-2-info">
                                     <h3>
-                                        <a href="sri-lankan-ramayana-trail-1.php">Ramayana Trail - 1</a>
+                                        <a href="sri-lankan-ramayana-trail-1.php" target="_blank">Ramayana Trail - 1</a>
                                     </h3>
                                     <!-- <div class="card-2-info-price">$350<span>/per</span></div> -->
                                 </div>
                                 <p>Colombo | Anuradhapura | Jaffna | Trincomalee | Ramboda | Ella | Katharagama</p>
                                 <div class="card-2-footer">
                                     <div class="card-2-action">
-                                        <a href="sri-lankan-ramayana-trail-1.php">Explore Tour <i class="flaticon-export"></i></a>
+                                        <a href="sri-lankan-ramayana-trail-1.php" target="_blank">Explore Tour <i class="flaticon-export"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -543,6 +543,332 @@
             </div>
         </section>
         <!-- Tour -->
+
+
+         <!-- Places -->
+         <section class="tour-section pb-100 position-relative" style="margin-top: 3em;">
+            <div class="map-shapes">
+                <div class="map-shape map-shape-1 map-shape-top">
+                    <img src="assets/images/shapes/map-1.png" alt="shape">
+                </div>
+                <div class="map-shape map-shape-2 map-shape-bottom">
+                    <img src="assets/images/shapes/map-2.png" alt="shape">
+                </div>
+            </div>
+            <div class="container">
+
+                <div class="section-title section-title-lg">
+                    <small>Amazing Places</small>
+                    <h2>Amazing Places To Visit In Sri Lanka</h2>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 col-lg-4 pb-30">
+                        <div class="card-2">
+                            <div class="card-2-image">
+                                <img src="assets/images/places/sri-lankan-ramayana-trail-1-page.jpg" alt="Ramayana Trail - 1">
+                            </div>
+                            <div class="card-2-content">
+                              
+                                <div class="card-2-info">
+                                    <h3>
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Anuradhapura</a>
+                                    </h3>
+                                    <!-- <div class="card-2-info-price">$350<span>/per</span></div> -->
+                                </div>
+                                <p>Anuradhapura is an ancient city famed for its grand stupas and the sacred Bodhi tree. It offers a glimpse into Sri Lanka’s rich historical and cultural heritage. </p>
+                                <div class="card-2-footer">
+                                    <div class="card-2-action">
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Explore Further <i class="flaticon-export"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4 pb-30">
+                        <div class="card-2">
+                            <div class="card-2-image">
+                                <img src="assets/images/places/sri-lankan-ramayana-trail-1-page.jpg" alt="Ramayana Trail - 1">
+                            </div>
+                            <div class="card-2-content">
+                              
+                                <div class="card-2-info">
+                                    <h3>
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Arugam Bay</a>
+                                    </h3>
+                                    <!-- <div class="card-2-info-price">$350<span>/per</span></div> -->
+                                </div>
+                                <p>Arugam Bay is celebrated for its excellent surfing conditions and relaxed beach atmosphere. It also offers nearby wildlife experiences in its national parks.</p>
+                                <div class="card-2-footer">
+                                    <div class="card-2-action">
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Explore Further <i class="flaticon-export"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4 pb-30">
+                        <div class="card-2">
+                            <div class="card-2-image">
+                                <img src="assets/images/places/sri-lankan-ramayana-trail-1-page.jpg" alt="Ramayana Trail - 1">
+                            </div>
+                            <div class="card-2-content">
+                              
+                                <div class="card-2-info">
+                                    <h3>
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Batticaloa</a>
+                                    </h3>
+                                    <!-- <div class="card-2-info-price">$350<span>/per</span></div> -->
+                                </div>
+                                <p>Batticaloa features beautiful lagoons and a historic Dutch fort. The city is known for its unique singing fish phenomenon and vibrant cultural blend.</p>
+                                <div class="card-2-footer">
+                                    <div class="card-2-action">
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Explore Further <i class="flaticon-export"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4 pb-30">
+                        <div class="card-2">
+                            <div class="card-2-image">
+                                <img src="assets/images/places/sri-lankan-ramayana-trail-1-page.jpg" alt="Ramayana Trail - 1">
+                            </div>
+                            <div class="card-2-content">
+                              
+                                <div class="card-2-info">
+                                    <h3>
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Dambulla</a>
+                                    </h3>
+                                    <!-- <div class="card-2-info-price">$350<span>/per</span></div> -->
+                                </div>
+                                <p>Dambulla is home to Sri Lanka’s largest cave temple complex, adorned with ancient murals and statues. It’s a key site for understanding Buddhist art and history.</p>
+                                <div class="card-2-footer">
+                                    <div class="card-2-action">
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Explore Further <i class="flaticon-export"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4 pb-30">
+                        <div class="card-2">
+                            <div class="card-2-image">
+                                <img src="assets/images/places/sri-lankan-ramayana-trail-1-page.jpg" alt="Ramayana Trail - 1">
+                            </div>
+                            <div class="card-2-content">
+                              
+                                <div class="card-2-info">
+                                    <h3>
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Down South</a>
+                                    </h3>
+                                    <!-- <div class="card-2-info-price">$350<span>/per</span></div> -->
+                                </div>
+                                <p>The southern coast, or Down South, offers stunning beaches, colonial charm, and vibrant marine life. It’s ideal for both relaxation and coastal adventures.</p>
+                                <div class="card-2-footer">
+                                    <div class="card-2-action">
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Explore Further <i class="flaticon-export"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4 pb-30">
+                        <div class="card-2">
+                            <div class="card-2-image">
+                                <img src="assets/images/places/sri-lankan-ramayana-trail-1-page.jpg" alt="Ramayana Trail - 1">
+                            </div>
+                            <div class="card-2-content">
+                              
+                                <div class="card-2-info">
+                                    <h3>
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Ella</a>
+                                    </h3>
+                                    <!-- <div class="card-2-info-price">$350<span>/per</span></div> -->
+                                </div>
+                                <p>Ella is a picturesque hill station with breathtaking views and lush tea plantations. Highlights include the scenic Nine Arches Bridge and hiking trails.</p>
+                                <div class="card-2-footer">
+                                    <div class="card-2-action">
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Explore Further <i class="flaticon-export"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4 pb-30">
+                        <div class="card-2">
+                            <div class="card-2-image">
+                                <img src="assets/images/places/sri-lankan-ramayana-trail-1-page.jpg" alt="Ramayana Trail - 1">
+                            </div>
+                            <div class="card-2-content">
+                              
+                                <div class="card-2-info">
+                                    <h3>
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Jaffna</a>
+                                    </h3>
+                                    <!-- <div class="card-2-info-price">$350<span>/per</span></div> -->
+                                </div>
+                                <p> Jaffna is a culturally rich city known for its ancient Hindu temples and beautiful coastal islands. It reflects Sri Lanka’s Tamil heritage and history.</p>
+                                <div class="card-2-footer">
+                                    <div class="card-2-action">
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Explore Further <i class="flaticon-export"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4 pb-30">
+                        <div class="card-2">
+                            <div class="card-2-image">
+                                <img src="assets/images/places/sri-lankan-ramayana-trail-1-page.jpg" alt="Ramayana Trail - 1">
+                            </div>
+                            <div class="card-2-content">
+                              
+                                <div class="card-2-info">
+                                    <h3>
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Kandy</a>
+                                    </h3>
+                                    <!-- <div class="card-2-info-price">$350<span>/per</span></div> -->
+                                </div>
+                                <p>Kandy is renowned for the Temple of the Sacred Tooth Relic and its annual cultural festival. Set in lush hills, it’s a center of Sri Lankan tradition and spirituality.</p>
+                                <div class="card-2-footer">
+                                    <div class="card-2-action">
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Explore Further <i class="flaticon-export"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4 pb-30">
+                        <div class="card-2">
+                            <div class="card-2-image">
+                                <img src="assets/images/places/sri-lankan-ramayana-trail-1-page.jpg" alt="Ramayana Trail - 1">
+                            </div>
+                            <div class="card-2-content">
+                              
+                                <div class="card-2-info">
+                                    <h3>
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Matale</a>
+                                    </h3>
+                                    <!-- <div class="card-2-info-price">$350<span>/per</span></div> -->
+                                </div>
+                                <p>Matale is famous for its spice gardens and the historic Aluvihara Rock Cave Temple. It offers a blend of cultural and natural attractions in Sri Lanka’s central region.</p>
+                                <div class="card-2-footer">
+                                    <div class="card-2-action">
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Explore Further <i class="flaticon-export"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4 pb-30">
+                        <div class="card-2">
+                            <div class="card-2-image">
+                                <img src="assets/images/places/sri-lankan-ramayana-trail-1-page.jpg" alt="Ramayana Trail - 1">
+                            </div>
+                            <div class="card-2-content">
+                              
+                                <div class="card-2-info">
+                                    <h3>
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Nuwara Eliyah</a>
+                                    </h3>
+                                    <!-- <div class="card-2-info-price">$350<span>/per</span></div> -->
+                                </div>
+                                <p>Nuwara Eliya, with its cool climate, is known for picturesque tea plantations and colonial architecture. It’s a serene escape with beautiful gardens and golf courses.</p>
+                                <div class="card-2-footer">
+                                    <div class="card-2-action">
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Explore Further <i class="flaticon-export"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4 pb-30">
+                        <div class="card-2">
+                            <div class="card-2-image">
+                                <img src="assets/images/places/sri-lankan-ramayana-trail-1-page.jpg" alt="Ramayana Trail - 1">
+                            </div>
+                            <div class="card-2-content">
+                              
+                                <div class="card-2-info">
+                                    <h3>
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Polonaruwa</a>
+                                    </h3>
+                                    <!-- <div class="card-2-info-price">$350<span>/per</span></div> -->
+                                </div>
+                                <p>Polonnaruwa showcases well-preserved medieval ruins, including the impressive Gal Vihara rock temple. It’s a key site for exploring Sri Lanka’s ancient civilization.</p>
+                                <div class="card-2-footer">
+                                    <div class="card-2-action">
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Explore Further <i class="flaticon-export"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4 pb-30">
+                        <div class="card-2">
+                            <div class="card-2-image">
+                                <img src="assets/images/places/sri-lankan-ramayana-trail-1-page.jpg" alt="Ramayana Trail - 1">
+                            </div>
+                            <div class="card-2-content">
+                              
+                                <div class="card-2-info">
+                                    <h3>
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Trincomalee</a>
+                                    </h3>
+                                    <!-- <div class="card-2-info-price">$350<span>/per</span></div> -->
+                                </div>
+                                <p>Trincomalee boasts pristine beaches and an exceptional natural harbor. It’s known for its ancient temples and excellent diving and snorkeling spots.</p>
+                                <div class="card-2-footer">
+                                    <div class="card-2-action">
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Explore Further <i class="flaticon-export"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4 pb-30">
+                        <div class="card-2">
+                            <div class="card-2-image">
+                                <img src="assets/images/places/sri-lankan-ramayana-trail-1-page.jpg" alt="Ramayana Trail - 1">
+                            </div>
+                            <div class="card-2-content">
+                              
+                                <div class="card-2-info">
+                                    <h3>
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Yala</a>
+                                    </h3>
+                                    <!-- <div class="card-2-info-price">$350<span>/per</span></div> -->
+                                </div>
+                                <p>Yala National Park is famed for its high density of leopards and diverse wildlife. The park offers a rich safari experience amidst varied ecosystems.</p>
+                                <div class="card-2-footer">
+                                    <div class="card-2-action">
+                                        <a href="assets/images/places/anuradhapura.pdf" target="_blank">Explore Further <i class="flaticon-export"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    
+                    
+                    
+                    
+                </div>
+            </div>
+        </section>
+        <!-- Places -->
 
         <!-- Contact -->
         <div class="contact-section pt-100 pb-70 position-relative" id="contact-area" style="padding-top: 0px;">
