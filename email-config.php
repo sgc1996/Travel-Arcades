@@ -52,10 +52,10 @@ $message = '
     $mail->From = $_POST["email"];     //Sets the From email address for the message
     $mail->FromName = $_POST["name"];    //Sets the From name of the message
     $mail->AddAddress('gayanc@aitech.lk', 'Travel Arcade'); //Adds a "To" address
-    $mail->AddAddress('buwanekav@aitech.lk', 'Travel Arcade'); //Adds a "To" address
+    //$mail->AddAddress('buwanekav@aitech.lk', 'Travel Arcade'); //Adds a "To" address
     $mail->AddAddress('ameshm@aitech.lk', 'Travel Arcade'); //Adds a "To" address
     $mail->AddAddress('gayanchathuranga1992@gmail.com', 'Travel Arcade'); //Adds a "To" address
-    //$mail->AddAddress('info@travelarcades.com', 'Travel Arcade'); //Adds a "To" address
+    $mail->AddAddress('info@travelarcades.com', 'Travel Arcade'); //Adds a "To" address
     $mail->WordWrap = 50;       //Sets word wrapping on the body of the message to a given number of characters
     $mail->IsHTML(true);       //Sets message type to HTML
     // $mail->AddAttachment($path);     //Adds an attachment from a path on the filesystem
