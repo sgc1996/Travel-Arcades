@@ -285,7 +285,7 @@
                         <div class="contact-grid-item">
                             <div class="section-title about-title section-title-left text-start">
                                 <small>Contact Us</small>
-                                <h2>We'll Love To Hear From You</h2>
+                                <h2>We'll Love To Hear From You!</h2>
                             </div>
                             <form action="<?= $SERVER['PHP_SELF'] ?>" method="post" role="form" class="contact-form">
                                 <div class="form-group mb-20">
