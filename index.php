@@ -511,6 +511,130 @@
             </div>
         </section>
         <!-- Inbound Tours -->
+
+        <!-- Inbound Tours -->
+        <section class="holiday-planning-section pt-70 pb-70 position-relative">
+            <div class="map-shapes">
+                <div class="map-shape map-shape-1">
+                    <img src="assets/images/shapes/map-1.png" alt="shape">
+                </div>
+                <div class="map-shape map-shape-2">
+                    <img src="assets/images/shapes/map-2.png" alt="shape">
+                </div>
+            </div>
+            <div class="container">
+                <div class="section-title">
+                    <!-- <small>Beautiful Sri Lanka</small> -->
+                    <h2>Amazing Places to Visit In Sri Lanka</h2>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6 col-lg-4 col-xl-3 pb-30">
+                        <div class="card-1">
+                            <div class="card-1-image">
+                                <div class="card-1-overlay">
+                                    <a href="https://drive.google.com/file/d/1RArq_QthzFpXL-DWLbI6Q6IZf_2Z-Viz/view?usp=sharing">
+                                        <img src="assets/images/places/anuradhapura.jpg" alt="IMG ANURADHAPURA">
+                                    </a>
+                                    <ul class="card-1-entry">
+                                        <li>
+                                           
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card-1-content">
+                                <div class="card-1-info">
+                                    <h3>
+                                        <a href="https://drive.google.com/file/d/1RArq_QthzFpXL-DWLbI6Q6IZf_2Z-Viz/view?usp=sharing">Anuradhapura</a>
+                                    </h3>
+                                </div>
+                                <p>Anuradhapura is an ancient city famed for its grand stupas and the sacred Bodhi tree. It offers a glimpse into Sri Lanka’s rich historical and cultural heritage. </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4 col-xl-3 pb-30">
+                        <div class="card-1">
+                            <div class="card-1-image">
+                                <div class="card-1-overlay">
+                                    <a href="https://drive.google.com/file/d/1KEmwahdILRsswVXPDVdg2i7U3h_BEYlK/view?usp=sharing">
+                                        <img src="assets/images/places/downsouth.jpg" alt="IMG DOWNSOUTH">
+                                    </a>
+                                    <ul class="card-1-entry">
+                                        <li>
+                                           
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card-1-content">
+                                <div class="card-1-info">
+                                    <h3>
+                                        <a href="https://drive.google.com/file/d/1KEmwahdILRsswVXPDVdg2i7U3h_BEYlK/view?usp=sharing">Down South</a>
+                                    </h3>
+                                </div>
+                                <p>Anuradhapura is an ancient city famed for its grand stupas and the sacred Bodhi tree. It offers a glimpse into Sri Lanka’s rich historical and cultural heritage. </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4 col-xl-3 pb-30">
+                        <div class="card-1">
+                            <div class="card-1-image">
+                                <div class="card-1-overlay">
+                                    <a href="https://drive.google.com/file/d/1q04RE9pjQidJXKiRZMDvXGvlzhEeBwWo/view?usp=sharing">
+                                        <img src="assets/images/places/ella.jpg" alt="IMG ELLA">
+                                    </a>
+                                    <ul class="card-1-entry">
+                                        <li>
+                                           
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card-1-content">
+                                <div class="card-1-info">
+                                    <h3>
+                                        <a href="https://drive.google.com/file/d/1q04RE9pjQidJXKiRZMDvXGvlzhEeBwWo/view?usp=sharing">Ella</a>
+                                    </h3>
+                                </div>
+                                <p>Anuradhapura is an ancient city famed for its grand stupas and the sacred Bodhi tree. It offers a glimpse into Sri Lanka’s rich historical and cultural heritage. </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4 col-xl-3 pb-30">
+                        <div class="card-1">
+                            <div class="card-1-image">
+                                <div class="card-1-overlay">
+                                    <a href="https://drive.google.com/file/d/19_u0lAGAF322nIdQGspxKUbgDqu309jn/view?usp=sharing">
+                                        <img src="assets/images/places/kandy.jpg" alt="IMG_KANDY">
+                                    </a>
+                                    <ul class="card-1-entry">
+                                        <li>
+                                           
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card-1-content">
+                                <div class="card-1-info">
+                                    <h3>
+                                        <a href="https://drive.google.com/file/d/19_u0lAGAF322nIdQGspxKUbgDqu309jn/view?usp=sharing">Kandy</a>
+                                    </h3>
+                                </div>
+                                <p>Anuradhapura is an ancient city famed for its grand stupas and the sacred Bodhi tree. It offers a glimpse into Sri Lanka’s rich historical and cultural heritage. </p>
+                            </div>
+                        </div>
+                    </div>
+                    
+
+
+                    <div class="text-center">
+                        <a href="inbound-tours.php#amazing-places" class="btn main-btn main-btn-arrow">More Placess <i class="flaticon-right-arrow"></i></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Inbound Tours -->
+
         <!-- Gallery -->
         <section class="gallery-section line-shape-bg p-tb-50">
             <div class="container">
