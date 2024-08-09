@@ -572,7 +572,7 @@
                                         <a href="https://drive.google.com/file/d/1KEmwahdILRsswVXPDVdg2i7U3h_BEYlK/view?usp=sharing">Down South</a>
                                     </h3>
                                 </div>
-                                <p>Anuradhapura is an ancient city famed for its grand stupas and the sacred Bodhi tree. It offers a glimpse into Sri Lanka’s rich historical and cultural heritage. </p>
+                                <p>The southern coast, or Down South, offers stunning beaches, colonial charm, and vibrant marine life. It’s ideal for both relaxation and coastal adventures. </p>
                             </div>
                         </div>
                     </div>
@@ -596,7 +596,7 @@
                                         <a href="https://drive.google.com/file/d/1q04RE9pjQidJXKiRZMDvXGvlzhEeBwWo/view?usp=sharing">Ella</a>
                                     </h3>
                                 </div>
-                                <p>Anuradhapura is an ancient city famed for its grand stupas and the sacred Bodhi tree. It offers a glimpse into Sri Lanka’s rich historical and cultural heritage. </p>
+                                <p>Ella is a picturesque hill station with breathtaking views and lush tea plantations. Highlights include the scenic Nine Arches Bridge and hiking trails. </p>
                             </div>
                         </div>
                     </div>
@@ -620,7 +620,7 @@
                                         <a href="https://drive.google.com/file/d/19_u0lAGAF322nIdQGspxKUbgDqu309jn/view?usp=sharing">Kandy</a>
                                     </h3>
                                 </div>
-                                <p>Anuradhapura is an ancient city famed for its grand stupas and the sacred Bodhi tree. It offers a glimpse into Sri Lanka’s rich historical and cultural heritage. </p>
+                                <p>Kandy is renowned for the Temple of the Sacred Tooth Relic and its annual cultural festival. Set in lush hills, it’s a center of Sri Lankan tradition and spirituality. </p>
                             </div>
                         </div>
                     </div>
